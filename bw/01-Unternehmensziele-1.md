@@ -8,35 +8,35 @@ Das Ziel ist es immer die Bedürfnisse (Produkte und Dienstleistungen) zu befrie
 
 ## Ökonomisches Prinzip
 * Güter sind grundsätzlich knapp (d.h. es gibt einen Preis dafür)
-* Jeder der bewuss oder unbewusst ein güstiges Verhätniss von Aufwand und Ertrag anstrebt handelt ökonomisch
+* Jeder der bewusst oder unbewusst ein günstiges Verhältnis von Aufwand und Ertrag anstrebt handelt ökonomisch
 * Opportunitätsprinzip: Kosten/Einnahmen welche aufgrund einer Entscheidung entgehen
 
 ### Prinzipien
-* Maximumprinzip: mit gegebenen Ressourcen möglichst viel Leitun herausholen
-* Minimumprinzip: so wenig Ressourcen wie möglich verbaruchen um eine gegebene Leistung zu erreichen
-* Optimumprinzip: mit idealem Ressourceneinsatz die ideale Leitsung herauszuholen
+* Maximumprinzip: mit gegebenen Ressourcen möglichst viel Leitung herausholen
+* Minimumprinzip: so wenig Ressourcen wie möglich verbrauchen um eine gegebene Leistung zu erreichen
+* Optimumprinzip: mit idealem Ressourceneinsatz die ideale Leistung herauszuholen
 
 ## Kundennutzen / Wettbewerbsfähigkeit
 * Bedürfnisse erkennen
 * neue Bedürfnisse schaffen durch Marketing
-* geignete Produkte anbieten (zur dauerhaften befriedigung)
+* geeignete Produkte anbieten (zur dauerhaften Befriedigung)
 * Qualität
 * Eindeutige Unternehmenskultur
-* Zuverlässigkeit / Pünklichkeit / Innovationskraft
+* Zuverlässigkeit / Pünktlichkeit / Innovationskraft
 * Kostenführere (Differenzierung durch den Preis z.B. Discounter)
 * First Mover (Vorteile des ersten)
 
 ## Unternehmenskultur
 * sichtbar (Kleider, Sprache, Einrichtung, ...)
-* unsichtbar (Einstellung zur Pünklichkeit, Diskusionskultur, Führungsstil, Gleichberechtigung, ...)
+* unsichtbar (Einstellung zur Pünktlichkeit, Disskusionskultur, Führungsstil, Gleichberechtigung, ...)
 
 ## Bedürfnissarten
 * Existenzbedürfnisse (Essen, Trinken, Schlafen, ..)
 * Grundbedürfnisse (Gelten dort als Lebensstandard, Ferien, Internet, Bildung, ...)
 * Luxusbedürfnisse (teurere Schmuck, teurer Wagen, wenn sich nur wenige % der Bevölkerung leisten kann)
 * Wahlbedürfnisse (wählen, priorisieren aufgrund eines Budgets)
-* Individualbedürfniss (ohne Fremde Hilfe befriedigen, wann und wie ich es will)
-* Kollektivbedürfniss (wenn mehrere das gleiche Bedürfniss haben, welches sie nicht selber befridigen können,  wird meistens vom Staat gestillt, ÖV, Spital, Schule) 
+* Individualbedürfnis (ohne Fremde Hilfe befriedigen, wann und wie ich es will)
+* Kollektivbedürfnis (wenn mehrere das gleiche Bedürfnis haben, welches sie nicht selber befriedigen können,  wird meistens vom Staat gestillt, ÖV, Spital, Schule) 
 
 ## Maslowsche Bedürfnispyramide
 * Transzendenz
@@ -48,7 +48,7 @@ Das Ziel ist es immer die Bedürfnisse (Produkte und Dienstleistungen) zu befrie
 
 ## Bedürfnis / Bedarf / Nachfrage
 * persönliches Mangelempfinden
-* Bedürfniss (Bedürfniss nach Mobilität)
+* Bedürfnis (Bedürfnis nach Mobilität)
 * Bedarf (genug Geld gespart)
 * Nachfrage (Kauf eines Autos bei einer Garage)
 
@@ -56,7 +56,7 @@ Das Ziel ist es immer die Bedürfnisse (Produkte und Dienstleistungen) zu befrie
 Wertschöpfung bezeichnet die Differenz zwischen der Endleistung und den übernommenen Vorleistungen
 
 * Vorleistungen (Kosten für Mehl, Hefe, ...)
-* Wertschäftung (Brötchen Backen)
+* Wertschöpfung (Brötchen Backen)
 * Endleistung (Brötchen für 1.50)
 * Bruttogewinn = Wertschöpfung - Transformationskosten (Personal, ...)
 
@@ -83,15 +83,15 @@ Wertschöpfung bezeichnet die Differenz zwischen der Endleistung und den überno
 ## Managementfunktionen
 Das Ziel des Managers ist es positive Wertschöpfung für das Unternehmen zu generieren
 
-* Plannung (Umsätze, Peronal, Räume, Marketing, Alleinstellungsmerkmale)
+* Planung (Umsätze, Personal, Räume, Marketing, Alleinstellungsmerkmale)
 * Entscheidung (Abbruchkriterien, Renditen, ...)
-* Aufgabenübertragung (Administration, Zeignisse, Finanzen, Delegieren)
-* Kontrolle (Konstenkontrolle, Soll-Ist-Vergleich)
+* Aufgabenübertragung (Administration, Zeugnisse, Finanzen, Delegieren)
+* Kontrolle (Kostenkontrolle, Soll-Ist-Vergleich)
 
 ## Managementkompetenz
 ### Fachkompetenz
-* Kentnisse der Industrie
-* Betriebswirtschaftliche Kentnisse
+* Kenntnisse der Industrie
+* Betriebswirtschaftliche Kenntnisse
 * Ausbildung
 * Erfahrung
 * muss Geschäftsmodell kennen
@@ -102,10 +102,10 @@ Das Ziel des Managers ist es positive Wertschöpfung für das Unternehmen zu gen
 * Unternehmensbewertung
 
 ### Sozialkompetenz
-* Ethische Kentnisse
+* Ethische Kenntnisse
 * Kultur & Gewohnheiten
 * Zeitmanagement
-* Wertschätzug der Mitarbeiter
+* Wertschätzung der Mitarbeiter
 * Konstruktives Feedback
 
 ### Systemkompetenz
@@ -123,15 +123,9 @@ Das Ziel des Managers ist es positive Wertschöpfung für das Unternehmen zu gen
 * Zuverlässigkeit
 
 ## Problemlösungsprozesses
-1. Problemerfassung
-    1. Problemerkennung (Symptom oder Ursache?)
-    2. Problembeschreibung (siehe Abbildung nächste Folie)
-    3. Problembeurteilung (To do’s? Nichts tun?)
-2. Problembearbeitung
-    1. Zielbestimmung
-    2. Massnahmenplanung
-    3. Festlegung der Ressourcen
-3. Entscheidung (Nutzwertanalyse, Folie 22)
-4. Durchführung
-5. Evaluation der Resultate
+* Problemerfassung (Problemerkennung, Problembeschreibung, Problembeurteilung)
+* Problembearbeitung (Zielbestimmung, Massnahmenplanung, Ressourcen)
+* Entscheidung (Nutzwertanalyse)
+* Durchführung
+* Evaluation der Resultate
 
