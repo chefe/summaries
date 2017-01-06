@@ -7,9 +7,9 @@
 ## Anforderungen an Organisationskonzepte
 * intern Orientierung
     * Leistungsprozess-Effizienz
-    * Fürungsprozesse-Effizienz (Plannung, Koordination)
+    * Fürungsprozesse-Effizienz (Planung, Koordination)
     * HR-Effizienz (Fähigkeiten der Mitarbeiter werden genutzt)
-    * Sachressourcen-Effizienz (finanzielle und materialle Ressourcen)
+    * Sachressourcen-Effizienz (finanzielle und materielle Ressourcen)
 * externe Orientierung
     * Innovationsfähigkeit
     * Mart- und Wettbewerbsorientierung
@@ -17,8 +17,8 @@
 
 ## Formen der Primärorganisation
 * Funktionale Organisation
-    * Delegiern nach unten und am Schluss eine Kontrolle
-    * Vorteile (einfache Strucktur, kontrollierbare Funktionsbereiche)
+    * Delegiere nach unten und am Schluss eine Kontrolle
+    * Vorteile (einfache Struktur, kontrollierbare Funktionsbereiche)
     * Nachteile (Koordinationsprobleme, Suboptimierungen)
 * Divisionale Organisation
     * Unterteilung nach Kunden, Produkten oder Regionen
@@ -29,9 +29,9 @@
     * Vorteile (Kommunikationswege, Problemlösung, Personalentwicklung)
     * Nachteile (Kompetenzabgrenzung, Koordination, Kompromisse, Bürokratie)
 * Holdingorganisation
-    * Definiert Ziele und Stragien der Tochtergesellschaften
-    * Vorteile (Zuordnungen, steuerliche Vortile, unternehmerisches Denken)
-    * Nachteile (Gefahr von Wiederständen, Kontrollaktivitäten, Spannungen)
+    * Definiert Ziele und Strategien der Tochtergesellschaften
+    * Vorteile (Zuordnungen, steuerliche Vorteile, unternehmerisches Denken)
+    * Nachteile (Gefahr von Widerstände, Kontrollaktivitäten, Spannungen)
 
 ## Formen der Sekundärorganisation
 * Produktmanagement (Produktentwicklung, Marketing, Umsatzpläne)
