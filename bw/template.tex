@@ -1,0 +1,32 @@
+\documentclass[a4paper]{extreport}
+
+% set page margins
+\usepackage[margin=3cm]{geometry}
+
+% disable section numbering
+\setcounter{secnumdepth}{0}
+
+% fix for pandoc build
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% set page header and footer
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{Zusammenfassung BW}
+\cfoot{}
+\rfoot{Seite \thepage}
+
+% add line between page header and content
+\renewcommand{\headrulewidth}{0.4pt}
+
+% add line between page footer and content
+\renewcommand{\footrulewidth}{0.4pt}
+
+% start document
+\begin{document}
+
+% insert content here
+$body$
+
+% end document
+\end{document}
