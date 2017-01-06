@@ -1,9 +1,4 @@
 # Markt und Marketing 1
-1. Sie erhalten einen Überblick über das Marketing und dessen Funktion.
-2. Sie kennen verschiedene Marktgrössen und deren Unterschiede.
-3. Sie wissen, was eine Marktanalyse beinhaltet und können die einzelnen Schritte erklären.
-4. Sie können eine Marktsegmentierung vornehmen und kennen verschiedene Kriterien dafür.
-5. Sie kennen verschiedene Marktforschungsmethoden und wissen, wann welche zur Anwendung kommt.
 
 ## Gutes Marketing
 * CoCa-CoLa (seit mehr als 100 Jahren, keine neues Rezept, Verbreitungsgrad, Sponsoring)
