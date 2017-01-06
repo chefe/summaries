@@ -1,7 +1,7 @@
 # Personal 1
 
 ## Personalwesen als Dienstleistungsfunktion
-* Kunde (Managmenet)
+* Kunde (Management)
 * Ziel (Einsatz des Produktionsfaktors Mensch)
 
 ### Aspiration der Generationen
@@ -38,14 +38,15 @@
 * Stellenvermittler
 * Im Konzern
 * Soziale Netzwerke
-* persönliche Kontate
+* persönliche Kontakte
 * Job-Börsen
 
 ### Rekrutierungsablauf
 * Auswertung der Bewerbungsunterlage
 * Einführunginterview
-* Tests und Untersuchuge
+* Tests und Untersuchungen
 * Einstellungsinterview
+* Einstellung
 
 ## Personaleinsatz
 * Ziele
@@ -57,7 +58,7 @@
     * Linienstellen: Manager
     * Hilfsstellen: Assistenten, Dienstleister, Stäbe
     * Gremium: Komitee
-* formale Aspekte (Plannung, Organigram, Stellenbeschreibung, Richtlinien)
+* formale Aspekte (Planung, Organigramm, Stellenbeschreibung, Richtlinien)
 * informale Aspekte (Machtverteilung, Beziehung, Erwartungen, Einstellungen)
 
 ## Motivation
@@ -68,5 +69,5 @@ Bezahlung, Arbeitsplatzsicherheit, Beförderung, Arbeitsbedingungen, Interessant
 ### Mitarbeitergespräche
 * Ziele: Vertrauenswürdigkeit, Ehrlichkeit, Fairness
 * Regeln: beidseitige Vorbereitung, Störung vermeiden, Zeit lassen
-* Unterstütung: Tools, Bewertungsbogen, Notizen, Belege
+* Unterstützung: Tools, Bewerbungsbogen, Notizen, Belege
 
