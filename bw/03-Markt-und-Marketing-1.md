@@ -1,7 +1,7 @@
 # Markt und Marketing 1
 
 ## Gutes Marketing
-* CoCa-CoLa (seit mehr als 100 Jahren, keine neues Rezept, Verbreitungsgrad, Sponsoring)
+* CoCa-CoLa (seit mehr als 100 Jahren, keine neues Rezept, Verbreitunggrad, Sponsoring)
 * RedBull (Event-Sponsoring, Extrem/Risikosport, Freiheit, Lebensgefühl)
 * Tesla (extrem Innovativ, First-Movere, Marktführere)
 * Apple (starke Kundenbindung, Markentreue, Philosophie)
@@ -26,20 +26,20 @@ Unter Marketing versteht man die Planung, Organisation, Durchführung und Kontro
 * Marktsegmentierung
 
 ### Kundennutzen
-* Was ist für den Kunden am wichtigtsen?
+* Was ist für den Kunden am wichtigsten?
 * Was ist der Kundennutze?
 * Leistungsmerkmale
     * Preis
     * Qualität
     * Umweltfreundlichkeit
     * Verfügbarkeit
-    * Serviceqaulität
+    * Servicequalität
 
 ### Kundenzufriedenheit
 * Wiederkäufer (treuer Kunde)
 * Weiterempfehlung (authentisch)
-* Zusatzkäufe (nicht gewoll, dennoch gekauft)
-* Preisbereitschaft (Inividualisireung, höherer Preis)
+* Zusatzkäufe (nicht gewollt, dennoch gekauft)
+* Preisbereitschaft (Individualisierung, höherer Preis)
 
 ### Kunden- und Kauffestlegung
 * Produkt (HSLU Whiteborad)
@@ -47,7 +47,7 @@ Unter Marketing versteht man die Planung, Organisation, Durchführung und Kontro
     * Initiator (Dozierende)
     * Einflussnehmer (andere Dozierende)
     * Entscheidungsträger (Studienleiter)
-    * Käufer (Administartion)
+    * Käufer (Administration)
     * Benutzer (Dozierenden, Studierende)
 * Zusätzliche Faktoren für einen Kauf
     * Wie (online oder nicht)
@@ -55,15 +55,15 @@ Unter Marketing versteht man die Planung, Organisation, Durchführung und Kontro
     * Wo
 
 ### Konsumentenverhalten
-* Rationalverhalten (intensive Beschätigung vor dem Kauf, Abwägen)
-* Gewohnheitsverhalten (Gewohnheitsverhalten, repetive, eher billig)
+* Rationalverhalten (intensive Beschäftigung vor dem Kauf, Abwägen)
+* Gewohnheitsverhalten (Gewohnheitsverhalten, repetitiv, eher billig)
 * Impulsverhalten (kurzfristig, nicht auf Einkaufsliste, Aktion, Rabatte)
 * Sozial abhängiges Verhalten (gesellschaftsabhängig, Markenkleider, Smartphone)
 
 ### Kundenbeziehungen
 * Kunden langfristig binden
 * Verkauf ist Beginn der Kundenbeziehung
-* Idividualisierung
+* Individualisierung
 * Beziehungen (Umfragen, Kundenzufiedenheit)
 * Service (Garantie)
 * Zweiseitige Kommunikation (Livechats, Hotline)
@@ -71,8 +71,8 @@ Unter Marketing versteht man die Planung, Organisation, Durchführung und Kontro
 
 ### Marktgrössen
 * Marktpotential (Maximale Aufnahmefähigkeit des Marktes)
-* Marktvolumen (realisierter oder geplannter Umsatz)
-* Marktanteil (Anteil des Untenhmenes am Marktvolumen)
+* Marktvolumen (realisierter oder geplanter Umsatz)
+* Marktanteil (Anteil des Unternehmens am Marktvolumen)
 * absoluter Marktanteil (alle Produkte durch meinen Marktanteil)
 * relativer Marktanteil (verglichen mit dem grössten Marktanteil)
 * Marktführere (Wenn grösster Marktanteil)
@@ -99,8 +99,8 @@ Unter Marketing versteht man die Planung, Organisation, Durchführung und Kontro
 * Sustential (genügen gross, Potential)
 * Accessible (zugänglich, Marketingmöglichkeiten)
 * Differential (innerhalb homogen, gegen aussen abgrenzbar)
-* Actionable (Umsetzbahr, Verfügbarkeit zeitlich und örtlich)
-* Messureable (demographische Daten, Kundensegemnte ableiten)
+* Actionable (Umsetzbar, Verfügbarkeit zeitlich und örtlich)
+* Messureable (demographische Daten, Kundensegmente ableiten)
 
 ## Marktforschung
 * Primär (Daten müssen erhoben werden)
@@ -108,5 +108,6 @@ Unter Marketing versteht man die Planung, Organisation, Durchführung und Kontro
     * Beobachtung (Feld, Labor)
     * Test (Produkttest, Instrumenttest)
 * Sekundär (Daten existieren)
-    * innerbetriebliche Qulle
+    * innerbetriebliche Quelle
     * ausserbetriebliche Quelle
+
