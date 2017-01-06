@@ -33,7 +33,7 @@
 
 ### Massnahmen
 * Änderung des Arbeitsverhältniss (Versetzung, Arbeitsverkürzung)
-* Beendigung eines Arbeitsverhältniss (natürliche Abgänge, freiwilliges Aussscheiden, Entlassungen) 
+* Beendigung eines Arbeitsverhältnis (natürliche Abgänge, freiwilliges Ausscheiden, Entlassungen) 
 
 ### Massenentlassung
 * 10 Personen in Betrieben mit 20-100 Beschäftigten
@@ -43,5 +43,5 @@
 
 ### Formen der Kündigung
 * Ordentlich (Begründung, Freistellung)
-* Ausserordentlich (fristlos aus wichtigen Gründen, Verweigern, Wiedrigkeiten)
+* Ausserordentlich (fristlos aus wichtigen Gründen, Verweigern, Widrigkeiten)
 
