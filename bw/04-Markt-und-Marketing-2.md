@@ -5,19 +5,19 @@
 * place (Distributionspolitik)
 * price (Konditionen- und Preispolitik)
 * promotion (Kommunikatiospolitik)
-* people (Menschen, Frendlichkeit, Erscheindungsbild, Zuverlässigkeit)
-* process (Zeitmanagement, Wartezeiten, Schnitstellen, Stnadards)
-* pysical evidence (Erscheindungsbild, Darstellung, Einrichtung)
+* people (Menschen, Freundlichkeit, Erscheinungsbild, Zuverlässigkeit)
+* process (Zeitmanagement, Wartezeiten, Schnittstellen, Standards)
+* pysical evidence (Erscheinungsbild, Darstellung, Einrichtung)
 
 ### Produktpolitik
 * Gestaltung des Absatzprogramms (Anzahl Produkte, Tiefe und Breite des Sortiments)
 * Produkt- oder Marktleistungsgestaltung (Grundnutzen, Zusatznutzen, Nebennutzen)
 * Veränderung und Erneuerung des Absatzprogramms
-* Einordnung nach Markemalen (Preis, Qualität)
+* Einordnung nach Merkmalen (Preis, Qualität)
 
 #### Markenartikel
 * Merkmale
-    * Herkunft wird kentlich gemacht
+    * Herkunft wird kenntlich gemacht
     * vergleichbare Qualität
     * Bekanntheitsgrad
     * Wiedererkunngseffekt
@@ -36,7 +36,7 @@
     * z.B. Qualität, Swissness, Freiheitsgefühl, Ferien, schönere Verpackung
 
 #### Produktpolitische Möglichkeiten
-* Produktpersistenz (Produkt wird bewusst nicht veränder, Cola)
+* Produktpersistenz (Produkt wird bewusst nicht verändert, Cola)
 * Produktmodifikation (gleiches Grundprodukt, Modifikationen, Relaunch, Apple)
 * Produktinnovation (Ablösung alte Technologie, CD to MP3)
 * Produktelimination (vom Markt nehmen, Flop)
@@ -74,7 +74,7 @@
 
 #### Preis-Elastizität
 * Arten
-    * elastisch (Umsatzsekung bei Preiserhöhung, z.B. Butter)
+    * elastisch (Umsatzsenkung bei Preiserhöhung, z.B. Butter)
     * unelastisch (Umsatzsteigerung bei Preiserhöhung, z.B Medikamente)
 * Bestimmungsfaktoren
     * Verfügbarkeit von Substitutionsgüter
@@ -86,7 +86,7 @@
 #### Preisdifferenzierung
 * Horizontal (Unterschiedliche Preise für verschiedene Gruppen)
     * Unterteilung (Studenten, AHV, Mitglieder eines Vereins)
-    * Beispiele (Kino, Theather, Schwimmbad)
+    * Beispiele (Kino, Theater, Schwimmbad)
 * Vertikal (Unterteilung in Teilmärkte)
     * Unterteilung (zeitlich, räumlich)
     * Beispiele (Strom in der Nacht, Hardcover vs Softcover)
@@ -109,5 +109,6 @@
 * Botschaft (Kundennutzen, Zusatznutzen)
 * Medien (Plakate, Zeitschriften, Events, Placments)
 * Perioden (Wie oft, zu welcher Zeit)
-* Ort (pysisch, Bahnhof, online, Banner)
+* Ort (physisch, Bahnhof, online, Banner)
 * Budget (anhand Umsatz oder Gewinn, Gewinnentwicklung)
+
