@@ -48,25 +48,25 @@ Change Management ist die zielgerichtete Analyse, Planung, Realisierung, Evaluie
 
 ## Personentypen im Wandel
 * Visionäre und Missionare (Häufig aus dem Top-Management, Starke überzeugung)
-* aktive Gläubige (ansteckung durch Visionär)
+* aktive Gläubige (Ansteckung durch Visionär)
 * Opportunisten (Abwägung zwischen Vor- und Nachteile)
 * Abwartende und Gleichgültige (geringes Einbringen)
 * Untergrundkämpfer
-* offene Geegner
-* Emigranten (verlassen Organisation, Angstum um eigene Stelle)
+* offene Gegner
+* Emigranten (verlassen Organisation, Angst um eigene Stelle)
 
-## Gründe für Wiederstand
+## Gründe für Widerstand
 * persönliche Vorbehalte
 * Mangel an Kommunikation
 * Fehlendes Vertrauen
-* Fehelnde Motivation
+* Fehlende Motivation
 
-## Arten von Wiederstand
+## Arten von Widerstand
 * Rationaler Widerstand (Sachlich Vor- und Nachteile)
 * Politischer Widerstand (Einfluss verlieren, Position)
 * Emotionaler Widerstand (Persönliche Empfindungen, ...)
 
-# Anzeichen für Wiederstand
+# Anzeichen für Widerstand
 * Jemand spricht sich gegen etwas aus
 * Sabotage
 * Lästern
@@ -74,8 +74,8 @@ Change Management ist die zielgerichtete Analyse, Planung, Realisierung, Evaluie
 * Fluktuation
 * Absenzenrate steigt
 
-## Umgang mit Wiederstand
-* Notwendigekit und Dringlichkeit darstellen
+## Umgang mit Widerstand
+* Notwendigkeit und Dringlichkeit darstellen
 * Kompetentes und glaubwürdiges Leitungsteam
 * neue Zielvorstellung (Differenzierung zu den alten)
 * Verständnis und Akzeptanz fördern
@@ -95,10 +95,10 @@ Change Management ist die zielgerichtete Analyse, Planung, Realisierung, Evaluie
     * Evolutionäres Vorgehen: Kontinuität mit der Vergangenheit
 
 ## Handlungsfelder
-* Strategie (Visoon, Leitbild, Geschäftsstrategie)
+* Strategie (Vision, Leitbild, Geschäftsstrategie)
 * Kultur (Führung, Kommunikation)
 * Technologie (Methoden, verfahren)
-* Organisation (Strucktur, Prozesse)
+* Organisation (Struktur, Prozesse)
 
 ## Drei-Phasen-Ansatz von Lewi
 * Unfreezing (Vorbereitung)
