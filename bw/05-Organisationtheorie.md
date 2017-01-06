@@ -1,18 +1,18 @@
 # Organisationstheorien
 
 ## Wichtig
-* Jeder Versteht eine Organisation anderns, je nach Blickwinkel
+* Jeder Versteht eine Organisation anders, je nach Blickwinkel
 * Blickwinkel (Kunde, Mitarbeiter, Manager, Staat, ...)
 * Niemand versteht die ganze Organisation
 
 ## klassische Organisationstheorien
 * Bürokratie Modell
-    * Regeln, Beherschbar, Effizienz stiegern, keine Willkür
+    * Regeln, beherrschbar, Effizienz steigern, keine Willkür
     * ca. 1920 durch Max Weber
     * Normierung, keine Überraschungen, Effizienzgewinn
     * keine Flexibilität, wenig Kreativität, Innovation verhindert
 * Scientific-Management
-    * Arbeitsteilung, Effizientgewinn, Trennung PLannung und Ausführung
+    * Arbeitsteilung, Effizienzgewinn, Trennung Planung und Ausführung
     * ca. 1925 durch Frederick Taylor und Henry Ford
     * Zeitgewinn, Kostenreduktion, Sinnentlehrung, Spezialisierung
     * monoton, Fliessbandarbeit
@@ -30,7 +30,7 @@
 ## Zusammenfassung der klassischen Theorien
 * Emotionen stören
 * Koordination durch Anleitung
-* Hirarchische Delegation
+* Hierarchische Delegation
 * Effizienz durch Regeln
 * Spezialisierung
 * Kontrolle ist wichtig
@@ -41,7 +41,7 @@
 * Mitgliedschaft
 * Zugehörigkeit
 * Führungsstil
-* Gruppenbeziehung
+* Gruppenbeziehungen
 
 ## Systemtheorie
 * Definition (Menge von Elementen mit Beziehung untereinander)
@@ -58,3 +58,4 @@
     * Mensch, Technik und Organisation gleichbedeutend
     * Arbeitsgruppe mit Zielerreichung
     * Entscheidungsspielräume
+
