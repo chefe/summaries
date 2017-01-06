@@ -1,11 +1,7 @@
-PDFS := $(patsubst %.md,%.pdf,$(wildcard *.md))
-
-all: $(PDFS)
-
-%.pdf : %.md
-	pandoc $< -o $@ -f markdown -t latex
+all:
+	pandoc *.md -o Zusammenfassung-BW.pdf -f markdown -t latex
 
 clean:
-	rm $(PDFS)
+	rm Zusammenfassung-BW.pdf
 
 rebuild: clean all
