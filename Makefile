@@ -1,7 +1,9 @@
+SUBFOLDERS = bw cna
+
 all:
-	make -C bw
+	$(foreach var,$(SUBFOLDERS),make -C $(var);)
 
 clean:
-	make clean -C bw
+	$(foreach var,$(SUBFOLDERS),make clean -C $(var);)
 
 rebuild: clean all
