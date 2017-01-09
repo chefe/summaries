@@ -1,4 +1,4 @@
-# BS 2.1
+# Kapitel Betriebsysteme
 
 ## Was macht ein Betriebssystem (BS)?
 Betriebssysteme realisieren eine Softwareschicht zwischen Anwendungen und Hardware, die sich mit der Verwaltung der Hardwarekomponenten beschäftigt und für die Anwendungen einfachere Schnittstellen bereitstellt (System Calls).

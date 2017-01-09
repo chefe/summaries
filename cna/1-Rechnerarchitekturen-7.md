@@ -1,5 +1,3 @@
-# RA 1.7
-
 ## Aus welchen Bestandteile ist einen PC zusammengesetzt?
 * Motherboard (Hauptplatine, CPU, RAM, BIOS, USB, ...)
 * Laufwerke (HD, SSD, DVD, CD, SD, Tape, ...)

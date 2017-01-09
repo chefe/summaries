@@ -1,5 +1,3 @@
-# RA 1.2
-
 ## Wie wird eine BCD-Zahl dargestellt?
 Jeder Ziffer im Dezimalsystem wird als 4-bit-Zahl dargestellt. (Beispiel 8539 = 1000 0101 0011 1001)
 

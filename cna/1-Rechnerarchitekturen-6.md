@@ -1,5 +1,3 @@
-# RA 1.6
-
 ## Was versteht man unter dem Semantic Gap?
 * Die Kluft zwischen verschiedenen Sprachen
     * natürliche Sprache: "die Zahl x um drei Erhöhen und um zwei reduzieren"

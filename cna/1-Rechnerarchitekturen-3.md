@@ -1,5 +1,3 @@
-# RA 1.3
-
 ## Wodurch zeichnet sich die Harvard-Architektur aus?
 * Separate Speicher für Daten und Befehle
 * Separate Busse zu den beiden Speichern

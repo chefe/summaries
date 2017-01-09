@@ -1,5 +1,3 @@
-# BS 2.2
-
 ## Was ist ein Prozess?
 Abstraktion eines laufenden Programmes
 

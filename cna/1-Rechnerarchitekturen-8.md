@@ -1,5 +1,3 @@
-# RA 1.8
-
 ## Klassifikation nach Flynn
 * SISD (Single Instruction, Single Data)
     * Klassischer Einprozessor-Rechner (von Neumann oder Harvard-Architektur)

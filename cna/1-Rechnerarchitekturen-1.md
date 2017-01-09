@@ -1,4 +1,4 @@
-# RA 1.1
+# Kapitel Rechenarchitekturen
 
 ## Was muss ein Rechner können?
 Ein Rechner muss einen Algorithmus ausführen können, dazu braucht er:

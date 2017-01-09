@@ -1,5 +1,3 @@
-# RA 1.5
-
 ## Welche Levels/Stufen gibt es bei den Rechnerarchitekturen?
 * Level 5: Problem-oriented language level
     * Translation (compiler)

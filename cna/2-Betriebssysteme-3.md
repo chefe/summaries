@@ -1,5 +1,3 @@
-# BS 2.3
-
 ## Was ist die Aufgabe der Paging-Table?
 Mapping von virtuellen zu physikalischen Adressen (und umgekehrt)
 
