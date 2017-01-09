@@ -1,7 +1,7 @@
 all:
-	cd bw && make
+	make -C bw
 
 clean:
-	cd bw && make clean
+	make clean -C bw
 
 rebuild: clean all
