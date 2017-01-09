@@ -1,7 +1,7 @@
 all:
-	pandoc *.md -o Zusammenfassung-BW.pdf --template="template.tex"
+	pandoc *.md -o Zusammenfassung.pdf --template="../_helpers/template.tex"
 
 clean:
-	rm Zusammenfassung-BW.pdf
+	rm Zusammenfassung.pdf
 
 rebuild: clean all
