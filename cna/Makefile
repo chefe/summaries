@@ -1,7 +1,7 @@
 all:
-	pandoc *.md -o Zusammenfassung.pdf --template="../_helpers/template.tex" variables.yaml
+	pandoc *.md -o zusammenfassung.pdf --template="../_helpers/template.tex" variables.yaml
 
 clean:
-	rm Zusammenfassung.pdf
+	rm -f zusammenfassung.pdf
 
 rebuild: clean all
