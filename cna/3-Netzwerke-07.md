@@ -34,14 +34,14 @@ Es werden Pakete vernichtet
 ## Was ist die Aufgabe der Flusskontrolle?
 Anpassung der Übertragungsgeschwindigkeit anhand des Empfängers
 
-## Nennen Sie einige Verfahren zur Gewährleistung der Dienstgüte.
-* Bereitstellen von Ressourcen im Überfluss
+## Nenne Sie einige Verfahren zur Gewährleistung der Dienstgüte
+* Bereitstellung von Ressourcen im Überfluss
 * Zwischenpuffern
 * Leaky Bucket Algorithmus
 * Token Bucket Algorithmus
 * Reservieren von Ressourcen
-* Zeitliche Planung von Paketen (Paket-Scheduling)
-    
+* Zeitliche Einplannung von Paketen (Paket-Scheduling)
+
 ## Was ist der Unterschied zwischen Leaky Bucket und Token Bucket?
 * Bei einem Leaky Bucket wird konstant etwas aus dem Buffer gesendet
 * Leaky Bucket = Konstanter Datenstrom mit maximaler Datenrate
