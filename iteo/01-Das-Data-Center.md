@@ -151,6 +151,109 @@ https://www.future-thinking.de/wp-content/uploads/2016/03/future-thinking-2016_W
     * 1.2: guter Wert, Bereich der normalen RZs
     * 1.4: Optimierungsbedarf
 
+## Was sind die Kosten für Downtime?
+| Branche                  | Kosten (Richtwert) |
+|--------------------------|--------------------|
+| Fertigung                | 28'000.-           |
+| Logistik                 | 90'000.-           |
+| Einzelhandel             | 90'000.-           |
+| Home-Shopping            | 113'000.-          |
+| Medien                   | 1'100'000.-        |
+| Bank (Rechenzentrum)     | 2'500'000.-        |
+| Kreditkartenverarbeitung | 2'600'000.-        |
+| Broker                   | 6'500'000.-        |
+
+## Was bedeutete SAN?
+Storage Attached Network
+
+## Wie funktioniert en Failover Cluster?
+Der Zugriff auf die Daten erfolgt über eine virtuelle IP Adresse, welche zusammen mit einem Service (Datenbank, Mailserver, Fileshares, Druckserver, ...) im Fehlerfall eines physischen Hosts automatisch auf den zweiten Hoste verschoben wird.
+
+## Wie lässt sich die Laufzeit bei der Replikation vrbessern?
+Damit die primäre DB nicht durch die Laufzeiten bei der Spiegelung belastet
+wird, werden die Daten synchron auf eine lokale Instanz gespiegelt.
+Die zeitintensivere Datenübertragung auf das entfernte Datacenter wird
+danach asynchron vorgenommen.
+Das off-site Rechenzentrum befindet sich im Standby Betrieb.
+
+## Was beschreibt die AEC?
+* Harvard Research Group (HRG) teilt Hochverfügbarkeit in ihrer Availability Environment Classification (AEC) in sechs Klassen ein
+* AEC-0 (Convectional, kann unterbrochen werden) bis AEC-5 (Disaster Tolerant, muss immer zur Verfügung stehen)
+
+## Welche Verfügbarkeit muss im SLA festgehalten werden, wenn ich 1h Ausfallzeit während den Bürozeiten nicht überschreiten will?
+99.95745% (Montag bis Freitag von 08:00 bis 17:00)
+
+## Was versteht man unter Failover-Cluster-Services?
+Redundante Server, welche automatisch gegenseitig den Betribe übernehmen können in einer kurzen Zeit
+
+## Wenn z.B. das SAN gespiegelt werden soll, wie erhöhen sich die Kosten?
+Mehr als eine Verdoppelung, da evtl. auch noch das Netzwerk erweitert werden muss oder zusätzliche Lizenzen gekauft werden müssen.
+
+## Was sind die verschiedenen Data Center Tiers?
+* Tier 1: Redundanz: N, Jährliche Ausfallzeit: 28.8h, 99.67% Verfügbarkeit
+* Tier 2: Redundanz: N+1, Jährliche Ausfallzeit: 22h, 99.75% Verfügbarkeit
+* Tier 3: Redundanz: N+1, Jährliche Ausfallzeit: 1.6h, 99.98% Verfügbarkeit
+* Tier 4: Redundanz: 2*(N+1), Jährliche Ausfallzeit: 0.8h, 99.99% Verfügbarkeit
+
+## Was sind bekannte Anbieter?
+* https://www.rackspace.com/
+* https://www.hetzner.de/
+* https://www.greendatacenter.ch/
+* http://www.rechenzentrum-ostschweiz.ch/
+
+## Was bedeutete ILM?
+* Information Life Cycle Management
+* ILM beschreibt eine Speicherstrategie. Ziel dieser Strategie ist die Speicherung von Informationen entsprechend ihrem Wert auf dem jeweils günstigsten Speichermedium einschließlich der Regeln und Prozesse, wie Information auf die geeigneten Speichermedien verschoben wird.
+* Die Gewichtung orientieren sich an Wichtigkeit, Wertigkeit und Kosten der
+elektronischen Information.
+* Diese Gweichtung nennt sich Klassifizierung der Daten.
+
+### Welche ILM Tiers gibt es?
+* Tier 1: Höchster Speed, Sehr zuverlässig, Hohe Skalierbarkeit, Sehr teuer
+* Tier 2: Mittlerer Speed, Zuverlässigkeit, Skalierung limitiert, Weniger teuer
+* Tier n: Hohe Kapazitaet, Niedrigerer Speed, Sehr kleine Kosten pro TB
+* spezialisiert: Offsite Tape, Einmal beschreibbar, Disk-to-Disk backup
+
+## Was sind die Anforderungen ans ILM?
+* Storage Management (Auf welchem Medium)
+* Document Lifecycle Management (Wie viele verschiedene Versionen)
+* Content Life Cycle Management (Wie viele gleiche Datein)
+* Records Management (Was und wo darf gespeichert werden)
+
+## Was sind die Regelen für das Storage Management?
+* Änderungshäufigkeit
+* Zugriffsgeschwindigkeit
+* Zugriffshäufigkeit
+* Kosten (Des Mediums)
+* Ökonomischer Wert (Aufwand um Daten wieder zu erstellen)
+* Relevante gesetzliche Bestimmungen (z.B. 10Jahre Aufbewahrungspflicht)
+
+## Was ist das Verhältniss zwischen aktiven und inaktiven Daten?
+* 40% inaktiv
+* 60% aktiv
+
+## Was sind die Probleme von inaktiven Daten?
+* Konsumieren teuren Speicherplatz
+* Werden gepflegt, gesichert, repliziert, etc.
+* Unterliegen trotzdem Rechtlichen- und Datenhaltungs- Ansprüchen
+* Müssen im Katastrophenfall wiederhergestellt werden
+
+## Was versteht man unter Records Management?
+* Was darf gespeichert werden?
+* Wie lange darf es gespeichert werden?
+* Wo wird es gespeichert?
+* Wer darf sehen? / Wer darf bearbeiten?
+
+## Welche Vorschriften für die Datenaufbewahrungszeit kennen sie?
+* ca. 10 Jahre bei Finanzdokumenten
+* z.B. 3 Jahre bei Sitzugsprotokolle
+
+## Wer soll das Records-Management (RM) anordnen und durchsetzen?
+* Geschäftsleitung anordnen
+* Rechtsabteilung Konsequenzen/Weisungen bekanntgeben
+* Abteilungsleiter müssen es kommunizieren
+* Administratoren führen Kontrolle durch
+
 # Kapitel
 Verfügbarkeitsverbesserungen
 Tier Levels im Datacenter
