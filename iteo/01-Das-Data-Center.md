@@ -124,6 +124,8 @@
 | Eingangskontrolle | Authorisierung                 | nicht-autorisierte Personen              | Biometrie, Kameras, Chipkarten, Passwörter, Personenkontrolle |
 
 ## Was sind die Kostenanteil der Baustein im gesammten Rechenzentrum?
+https://www.future-thinking.de/wp-content/uploads/2016/03/future-thinking-2016_Was-darf-ein-RZ-kosten_dc-ce-RZ-Beratung-Ulrich-Terrahe.pdf
+
 | Kosten    | Baustein                     |
 |-----------|------------------------------|
 | 600'000.- | Gebäude                      |
