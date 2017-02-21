@@ -1,4 +1,4 @@
-SUBFOLDERS = bw cna iteo
+SUBFOLDERS = bw cna iteo ad
 
 all:
 	# make subfolders
