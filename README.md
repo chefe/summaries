@@ -7,3 +7,4 @@ Just some personal summaries for hslu
 
 ## 2. Sem
 * [ITEO](iteo)
+* [ISF](isf)
