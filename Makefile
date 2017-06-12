@@ -1,4 +1,4 @@
-SUBFOLDERS = bw cna iteo isf
+SUBFOLDERS = bw cna iteo isf ad
 
 all:
 	# make subfolders
@@ -14,7 +14,7 @@ clean:
 	# clean all subfolders
 	$(foreach var,$(SUBFOLDERS),make clean -C $(var);)
 
-	# remove sip file with summaries
+	# remove zip file with summaries
 	rm -f summaries.zip
 
 rebuild: clean all
