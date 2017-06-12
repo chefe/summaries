@@ -11,3 +11,4 @@ Just some personal summaries for hslu
 * [ITEO](iteo)
 * [ISF](isf)
 * [AD](ad)
+* [FKOM](fkom)
