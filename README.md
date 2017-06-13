@@ -12,3 +12,4 @@ Just some personal summaries for hslu
 * [ISF](isf)
 * [AD](ad)
 * [FKOM](fkom)
+* [PMB](pmb)
