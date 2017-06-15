@@ -94,6 +94,7 @@ ein Projektleiter hat
 
 ## Bei wem liegt die Führungsverantwortung?
 PO = Projektleiter, LV = Linienvorgesetzter
+
 |                                 | disziplinarisch | fachlich | finanziell | administrativ |
 |---------------------------------|-----------------|----------|------------|---------------|
 | Reine Projektorganisation       | PO              | PO       | PO         | PO            |
