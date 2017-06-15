@@ -13,3 +13,6 @@ Just some personal summaries for hslu
 * [AD](ad)
 * [FKOM](fkom)
 * [PMB](pmb)
+* [MOD](pmb)
+* [DMATH](https://github.com/hslu-students/dmath)
+
