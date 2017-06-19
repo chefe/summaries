@@ -14,9 +14,9 @@
 * Eigenschaftswert (Kontostand: Double {Kontostand >= Kredit})
 
 ## Welche Sichtbarkeiten gibt es?
-> + public
-> # protected
-> - private
+* public (Plus-Zeichen)
+* protected (Raute-Zeichen)
+* private (Minus-Zeichen)
 
 ## Wie wird ein Klassenattribut (static) gekennzeichnet?
 * Unterstrichenes Attribut

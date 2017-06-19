@@ -2,17 +2,17 @@
 
 ## Was ist der Zweck der IT?
 * Unterstützt Geschäftsprozesse
-* IT-Service entwickeln und betreibt Applikationen
+* IT-Service entwickeln und Applikationen betreiben
 
 ## Was ist ein Geschäft oder Betrieb?
 * Einheit von zusammenwirkenden Personen und Produktionsmitteln zum
-    * Hervorbringen von Gütern und Dienstleistungen (Output) aus
-    * Eingangsmaterialien (Input)
+    * Hervorbringen von Gütern und Dienstleistungen (Output)
+    * aus Eingangsmaterialien (Input)
     * für Dritte
     * mit dem Zweck der Erzielung eines Gewinns
 
 ## Wie lässt sich ein Prozess beschreiben?
-* Ein Prozess ist ein allgemeiner Ablauf mehrerer Schritte, bei denen es sich um Aufgaben, Ausführungen, Arbeitsschritte oder Ähnliches handeln kann
+* Ein Prozess ist ein allgemeiner Ablauf mehrerer Schritte, bei denen es sich um Aufgaben, Ausführungen, Arbeitsschritte oder ähnliches handeln kann
 * Zwischen diesen Prozessabschnitten bestehen bestimmte Abhängigkeiten
 
 ## Was ist ein Geschäftsprozess?
