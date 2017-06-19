@@ -19,8 +19,8 @@ Abschluss von Projekten
 
 ## Was bezeichnet man als Projekterfolg?
 * Erreichen des vorgegebenen Zieles
-* ohne Uerschreitung des Zeitrahmen
-* ohne Uerschreitung des Kostenrahmen
+* ohne Überschreitung des Zeitrahmen
+* ohne Überschreitung des Kostenrahmen
 
 ## Was versteht man unter dem Teufelsquadrat?
 * 4 Achsen (Zeit, Kosten, Qualität, Leistung)
@@ -70,7 +70,7 @@ zur Verfügung steht.
 * Sprintabschluss (Abnahme der Ergebnisse)
 
 ## Was versteht man unter Projektinstitution?
-institutionelle Projektmanagement, welches alle aufbauorganisatorischen 
+institutionelles Projektmanagement, welches alle aufbauorganisatorischen 
 Bereiche beinhaltet, die für ein Projektmanagement System notwendig sind
 
 ## Was sind die Hauptaufgabe der Projektinstitution?

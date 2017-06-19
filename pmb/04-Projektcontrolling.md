@@ -2,9 +2,9 @@
 
 ## Was bedeutet Projektcontrolling?
 umfasst alle Aktivitäten um projektbezogene Abweichnungen 
-zwischen dem Plan- und dem IST-Zustand aufzudecken
+zwischen dem Plan- und dem Ist-Zustand aufzudecken
 
-## Welche Fragen müssen stänfig überprüft werden beim Projektcontrolling?
+## Welche Fragen müssen ständig überprüft werden beim Projektcontrolling?
 * Ist das Projekt in der Zeit?
 * Kann das Budget eingehalten werden?
 * Sind die nächsten Meilensteine erreichbar?

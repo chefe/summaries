@@ -98,7 +98,7 @@
 * Persöndliche Eigenschaften
 * Umstimmungsmöglichkeiten
 
-## Was ist das Vorgehen im Umgang mit Stackeholder?
+## Wie ist das Vorgehen im Umgang mit Stackeholder?
 * Identifizieren der Stakeholder
 * Beziehungsanalyse
 * Kommunikationsplan

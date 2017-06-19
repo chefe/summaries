@@ -54,11 +54,11 @@
 * Projektmanagement-Ergebnisse
 
 ## Was ist ein Meilenstein?
-Ein geplanter Punkt im Projektablauf an dem vorher festgelegte, 
+Ein geplanter Punkt im Projektablauf, an dem vorher festgelegte, 
 messbare (Zwischen-)Ergebnisse vorliegen, die es erlauben,
 den Projektfortschritt festzustellen
 
-## Welche Artefakte ghören zu einem Meilensetin?
+## Welche Artefakte ghören zu einem Meilenstein?
 * Prototypen / Prereleases / Releases
 * Deliverables
 * Entwurfsdokumente
@@ -160,7 +160,7 @@ den Projektfortschritt festzustellen
 * P - Prioritized
 
 ## Nach welche Schema sollten UserStories formuliert werden?
-Als <Rolle> möchte ich <Ziel/Wunsch>, um <Nutzen>
+Als _Rolle_ möchte ich _Ziel/Wunsch_, um _Nutzen_
 
 ## Wie sollte eine gute UserStory sein?
 * I - Independent 

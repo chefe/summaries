@@ -24,17 +24,17 @@
 ## Was sind die Kriterien für eine Projektevaluation?
 * Erfolgs-Chancen
 * Potential
-* Aleinstellungmerkmale
+* Alleinstellungsmerkmal
 * Übereinstimmung mit Firmenphilosophie / Strategie
 * Innovationsgrad
 * Nachfrage und Angebot auf dem Markt
-* Entwicklungsdauer, Entwiwcklungskosten, ...
+* Entwicklungsdauer, Entwicklungskosten, ...
 * Risikofaktoren
 * erwartete Rendite / Gewinn
 * ROI (Return of Investment)
 
 ## Was sind die Nutz- und Kostenarten von Software-Lösungen?
-* Nutzenarten
+* Nutzarten
     * Effizenzsteigerung / Zeit
     * Veringerung von Personalkosten / Geld
     * Fehlerverminderung
@@ -52,5 +52,5 @@
 
 ## Was ist die Kapitalwertmethode?
 * Methode zur Wertbestimmung einer Investition
-* investierten Kapital wird dem heutige Wert aller Ausgaben und Erträge gegenübergestellt
+* investiertes Kapital wird dem heutigen Wert aller Ausgaben und Erträge gegenübergestellt
 
