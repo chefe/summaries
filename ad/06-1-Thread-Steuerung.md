@@ -12,7 +12,7 @@
 * Bedingung muss iterative geprüft werden
 
 ## Was ist wichtig bei der wait-Methode?
-* Bei wait wird der Thread in den Wartezustand
+* Bei wait wird der Thread in den Wartezustand versetzt
 * gleichzeitig wird der Lock für diesen Abschnitt freigegeben
 
 ## Welche 3 Wege führen aus dem Warte-Zustand?

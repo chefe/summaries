@@ -1,12 +1,11 @@
 # Rekursion
 
-## Was ist das grundlegendes der Rekursion?
+## Was ist das grundlegende der Rekursion?
 * Viele Algorithmen und Datenstrukturen sind von Natur aus selbstähnlich bzw. selbstbezüglich
 * Beispiele:
     * Der ggT von (21, 15) ist gleich dem ggT von (21-15, 15).
     * Ein Verzeichnis enthält Dateien und andere Verzeichnisse.
-    * Ein Ausschnitt einer Matrix, einer Liste, eines Baumes, eines
-    * Graphen ist wieder eine Matrix, eine Liste, ein Baum, ein Graph.
+    * Ein Ausschnitt einer Matrix, einer Liste, eines Baumes, eines Graphen ist wieder eine Matrix, eine Liste, ein Baum, ein Graph.
 
 ## Was sind die Rekursionsbasis und die Rekursionsvorschrift?
 ```java

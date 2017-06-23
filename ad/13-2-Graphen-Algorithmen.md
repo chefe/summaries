@@ -1,7 +1,7 @@
 # Graphen-Algorithmen
 
 ## Wie kann man Endlosscheifen beim Traversieren verhindern?
-* "noch nicht gefunden" mit WHITE marieren
+* "noch nicht gefunden" mit WHITE markieren
 * "gefunden" mit GRAY markieren
 * "verarbeitet" mit BLACK markieren
 

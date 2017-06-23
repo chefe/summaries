@@ -1,7 +1,7 @@
 # Threads
 
 ## Was ist ein Thread?
-* vielen nebenläufigen Konzepten ist es der Thread
+* nebenläufigen Konzepten
     * der unabhängig von anderen agiert
     * durch Programmcode gesteuert wird
 * diese Parallelitätsabstraktion ist intuitiv nicht leicht zugänglich
@@ -51,7 +51,7 @@
 * Das Thread Objekt muss mit der Methode start gestartet werden
 
 ## Wie funktioniert der Lebenszyklus eines Threads?
-* Ein Thread kann nur einmal gestartet werden kann
+* Ein Thread kann nur einmal gestartet werden
 * mit der isAlive-Methode lässt sich feststellen ob der Thread ausgeführt wird
 
 ## Wie lässt sich auf das Ende eines Threads warten?

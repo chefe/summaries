@@ -52,7 +52,7 @@ Beispiele (text => t, meme => me, abcdabc => abc, wort => )
 
 ## Wie funktioniert der KMP-Algorithmus?
 * basierend auf dem Pattern den Musterautomaten erzeugen
-* mit hilfe der Musterautomanten nach dem Pattern suchen
+* mit Hilfe der Musterautomanten nach dem Pattern suchen
 * die Laufzeitkomplexität ist O(m+n)
 
 ## Wie unterscheiden sich ein optimierter Suchautomat und ein Musterautomat?
@@ -75,7 +75,7 @@ Beispiele (text => t, meme => me, abcdabc => abc, wort => )
 
 ## Wie funktioniert ein Optimal-Mismatch?
 * basiert auf Quicksearch
-* Optimierung asiert auf Zeichenhäufigkeit
+* Optimierung basiert auf Zeichenhäufigkeit
 * für das Vergleichen werden zuerst die seltenen Zeichen genutzt
 
 ## Wie funktioniert ein Optimal-Mismatch bei unbekannter Zeichenhäufigkeit?

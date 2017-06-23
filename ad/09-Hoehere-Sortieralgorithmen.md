@@ -4,7 +4,7 @@
 * Direktes Einfügen
     * Ordnung: O(n^2)
     * stabiler Algorithmus
-* Direktes Einfügen
+* Direktes Auswählen
     * Ordnung: O(n^2)
     * instabiler Algorithmus
 * Direktes Austauschen
@@ -93,7 +93,7 @@ ein komplexes Problem durch Zerlegen in einfachere Teilprobleme lösen
 * besitzt generell eine Zeitkompleität von O(n * log n)
 * suchen wird beschleunigt durch geschickte Datenstruktur
 
-## Wie geht der Heaposrt Algorithmus vor?
+## Wie geht der Heapsort Algorithmus vor?
 * Heap aufbauen
     * Man fügt n-1 mit insert ein Eleent in den Heap ein
 * Elemente sortieren

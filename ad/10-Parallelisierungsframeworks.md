@@ -8,7 +8,7 @@
     * Kind beginnt Opration getrennt von Elternteil
     * schafft Nebenläufigkeit
 * Join (Vereinen)
-    *  Kinder rufen Joind auf, wenn die Operation zu Ende ist
+    *  Kinder rufen join auf, wenn die Operation zu Ende ist
     *  Elternteil warted auf das Kind (bis Operation abgeschlossen ist)
     *  Reduziert Nebenläufigkeit, weil Kinder beendet werden
 
@@ -18,7 +18,7 @@
     * Kindern können in beliebiger Reihenfolge zusammenkommen
 * Ist ein Kontrollmeachanismus für die Nebenläufigkeit
 
-## Wie Funktioniert der Kontrollfluss des Fork-Join-Pattern?
+## Wie funktioniert der Kontrollfluss des Fork-Join-Pattern?
 * Kontrollfluss wird in mehrere Nebenläufige Flüsse aufgeteilt
 * diese werden dann am Schluss wieder zusammengeführt
 * eine Vereinigung entspricht einem Synchronisationspunkt
@@ -54,8 +54,8 @@ In wie viele nebenläufige Operationen eine Aufgabe zerteilt werden kann
 
 ## Was ist das Work-Stealing-Verfahren?
 * Jeder Thread besitzt eine eigene Task-Queue
-* Falls die Queue leer ist, holt er sich Aufgaben vom Ende einer anderen Task Queue und bearbeitet diese
-* das heisst Double-Ended-Queues (Deque) kommen hier zum Einsatz
+* Falls die Queue leer ist, holt er sich Aufgaben vom Ende einer anderen Task Queue 
+* dabei kommen Double-Ended-Queues (Deque) Einsatz
 
 ## Welche Methoden biete ein ForkJoinTask?
 * compute
@@ -67,7 +67,7 @@ In wie viele nebenläufige Operationen eine Aufgabe zerteilt werden kann
 * join 
     * Ergebnis der Verarbeitung holen
 * get
-    * Verhält sich wie join, wirf aber InterruptedException
+    * Verhält sich wie join, wirft aber InterruptedException
 
 ## Wie wird ein Task mit dem ForkJoin-Framework gestartet?
 ```java

@@ -31,5 +31,5 @@
 * für gewissen Schrittweiten lässt sich der Aufwand stark verkleinern
 * Knuth-Folge: 1, 4, 13, 40, ... (mal 3 + 1)
 * Hibbard-Folge: 1, 3, 7, 15, ... (mal 2 + 1) entspricht O(n 1.5 )
-* Shellsort liegt wzischen O(n^2) und O(n * log n)
+* Shellsort liegt zwischen O(n^2) und O(n * log n)
 

@@ -21,7 +21,7 @@
     * Beziehungen werden nicht von den Elementen selber festgehalten
     * Beziehungen werden von aussen definiert, beispielsweise über eine externe Nummerierung
 * direkter Zugriff
-    * Zugriff auf jedes Element zu jeder zeit möglich
+    * Zugriff auf jedes Element zu jeder Zeit möglich
 * indirekter Zugriff
     * Zugriff auf spezifisches Element möglich
     * anderfalls sequenzielles Abarbeiten nötig
@@ -80,7 +80,7 @@
     * Grösse dynamisch und nur durch Speicher begrenzt
     * Langsamer wegen Speicheranforderung für neue Elemente
 
-## Was ist der Aufwand der Operationen beim einer Queue?
+## Was ist der Aufwand der Operationen bei einer Queue?
 * Implementation mit Liste
     * enqueue(): Einfügen am Ende der Liste => Aufwand `O(1)`
     * dequeue(): Entnehmen am Anfang der Liste => Aufwand `O(1)`
