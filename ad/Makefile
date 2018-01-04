@@ -1,5 +1,5 @@
 all:
-	pandoc *.md -o zusammenfassung.pdf --listings --template="../_helpers/template.tex" variables.yaml
+	pandoc *.md -o zusammenfassung.pdf --template="../_helpers/template.tex" variables.yaml
 
 clean:
 	rm -f zusammenfassung.pdf

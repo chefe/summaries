@@ -70,14 +70,14 @@ In wie viele nebenläufige Operationen eine Aufgabe zerteilt werden kann
     * Verhält sich wie join, wirft aber InterruptedException
 
 ## Wie wird ein Task mit dem ForkJoin-Framework gestartet?
-```java
+```
 final ForkJoinPool forkJoinPool = new ForkJoinPool();
 final SimpleTask rootTask = new SimpleTask();
 forkJoinPool.invoke(rootTask);
 ```
 
 ## Wie kann ein Task noch einfach gestartet werden?
-```java
+```
 final SimpleTask rootTask = new SimpleTask();
 rootTask.invoke();
 ```
@@ -87,7 +87,7 @@ rootTask.invoke();
 * Threads besitzen Daemon-Eigenschaft
 
 ## Wie funktioniert ein Mischen mit dem Riessverschlussverfahren?
-```java
+```
 private void merge(final int min, nit mid, int max) {
     int[] buf = Arrays.copyOfRange(array, min, mid);
     int i = 0;

@@ -8,7 +8,7 @@
 * Falls das Pattern nirgends gefunden wurde, gib -1 zurück
 * Besitzt die Laufzeitkomplexität O(n*m)
 
-```java
+```
 public static int simpleSearch(final String a, final String p) {
     final int maxIndex = a.length() - p.length();
     final int notFound = -1;

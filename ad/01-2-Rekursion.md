@@ -8,7 +8,7 @@
     * Ein Ausschnitt einer Matrix, einer Liste, eines Baumes, eines Graphen ist wieder eine Matrix, eine Liste, ein Baum, ein Graph.
 
 ## Was sind die Rekursionsbasis und die Rekursionsvorschrift?
-```java
+```
     public static int factorialRec(final int n) {
         if ((n == 0) || (n == 1)) {           // Rekursionsbasis
             return 1;                         // Rekursionsbasis

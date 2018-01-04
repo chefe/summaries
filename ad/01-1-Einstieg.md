@@ -39,7 +39,7 @@ Eine Datenstruktur ist ein Konzept zur Speicherung und Organisation von Daten
     * Grösse eines Datenwertes (z.B. 10! vs. 1Mrd!)
 
 ## Wie wird die Rechenzeit eines Algorithmus berechnet?
-```java
+```
     public static void task(final int n) {
         task1(); task1(); task1(); task1();   // T ~ 4
         for (int i = 0; i < n; i++) {         // aeussere Schleife: n-Mal
