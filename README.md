@@ -19,3 +19,4 @@ Just some personal summaries for hslu
 ## 3. Sem
 * [DBS](dbs)
 * [VSK](vsk)
+* [MC](mc)
