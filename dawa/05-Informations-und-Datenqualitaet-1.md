@@ -1,4 +1,4 @@
-# Informations- und Datenqualität
+# Informations- und Datenqualität I
 
 ## Was bedeuten die Abkürzungen IQ und DQ?
 * Informationsqualität (IQ)
