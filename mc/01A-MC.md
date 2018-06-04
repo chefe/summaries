@@ -53,7 +53,7 @@ MCU oder MC
     * bei vorzeichenlosen Zahlen
     * beim Übergang zwischen kleinster und grösster Zahl
     * beim Wechsel zwischen `1111` und `0000`
-* Carry
+* Overflow
     * bei Zahlen mit Vorzeichen
     * beim Übergang zwischen betragsmässig grössten Zahlen
     * beim Wechsel zwischen `0111` und `1000`
