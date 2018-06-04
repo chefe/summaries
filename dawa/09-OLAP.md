@@ -94,9 +94,6 @@ SELECT item, color, SUM(quantity) As qtsum
 | Tisch | -   | -    | 347  |
 | NULL  | 433 | 225  | -    |
 
-## Für was steht die Abkürzung MDX?
-Multidimensional Expressions
-
 ## Welche 4 Varianten der analytischen Datenauswertung gibt es?
 * Variante 1
     * Query Express oder SQL Server Management Studio
