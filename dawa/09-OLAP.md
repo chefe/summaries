@@ -58,7 +58,7 @@ SELECT item, color, SUM(quantity) As qtsum
     FROM Inventory GROUP BY CUBE (Item, Color);
 ```
 
-> ergibt 9 Datensätze 
+$\Rightarrow$ ergibt 9 Datensätze 
 
 |       | Rot | Blau | Null |
 |-------|-----|------|------|
@@ -72,7 +72,7 @@ SELECT item, color, SUM(quantity) As qtsum
     FROM Inventory GROUP BY ROLLUP (Item, Color);
 ```
 
-> ergbit 7 Datensätze
+$\Rightarrow$ ergbit 7 Datensätze
 
 |       | Rot | Blau | Null |
 |-------|-----|------|------|
@@ -86,7 +86,7 @@ SELECT item, color, SUM(quantity) As qtsum
     FROM Inventory GROUP BY GROUPING SETS (Item, Color);
 ```
 
-> ergbit 4 Datensätze
+$\Rightarrow$ ergbit 4 Datensätze
 
 |       | Rot | Blau | Null |
 |-------|-----|------|------|
