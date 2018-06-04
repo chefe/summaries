@@ -52,7 +52,7 @@
     * enthalten 90% der Daten eines DWHs oder mehr
     * enthalten keine Redundanzen
 
-### Wie funktioniert die Operation CUBE?
+## Wie funktioniert die Operation CUBE?
 ```
 SELECT item, color, SUM(quantity) As qtsum 
     FROM Inventory GROUP BY CUBE (Item, Color);
@@ -66,7 +66,7 @@ SELECT item, color, SUM(quantity) As qtsum
 | Tisch | 223 | 124  | 347  |
 | NULL  | 433 | 225  | 658
 
-### Wie funktioniert die Operation ROLLUP?
+## Wie funktioniert die Operation ROLLUP?
 ```
 SELECT item, color, SUM(quantity) As qtsum
     FROM Inventory GROUP BY ROLLUP (Item, Color);
@@ -80,7 +80,7 @@ SELECT item, color, SUM(quantity) As qtsum
 | Tisch | 223 | 124  | 347  |
 | NULL  | -   | -    | 658  |
 
-### Wie funktioniert die Operation GROUPING SETS?
+## Wie funktioniert die Operation GROUPING SETS?
 ```
 SELECT item, color, SUM(quantity) As qtsum
     FROM Inventory GROUP BY GROUPING SETS (Item, Color);
