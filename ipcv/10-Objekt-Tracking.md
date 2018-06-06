@@ -8,13 +8,13 @@
 * Detektion: 
     * Erkennung der Objekte unabhängig in jedem Frame
 * Tracking: 
-    * Benutzung der Dynamik (Bewegung) der Objekte zur Voraussage, wo sich das Objekt befinden könnte
+    * Benutzung der Dynamik der Objekte zur Voraussage, wo sich das Objekt befinden könnte
 
 ## Was braucht es um die nächste Position eines Objektes zu schätzen?
 * Position und Geschwindigkeit des Objektes
 * eine Berechnung des nächsten Zustands
 
-## Was sit das Problem beim schätzen der nächsten Position?
+## Was ist das Problem beim schätzen der nächsten Position?
 * Ermittlung des aktuellen Zustands
 * wir können im allgemeinen den kompletten Zustand des Objekts aber nicht messen
 
