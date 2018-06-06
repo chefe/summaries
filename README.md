@@ -6,8 +6,8 @@ Just some personal summaries for hslu
 | 1. Sem     | 2. Sem                                          | 3. Sem     | 4. Sem       |
 |:----------:|:-----------------------------------------------:|:----------:|:------------:|
 | [BW](bw)   | [ITEO](iteo)                                    | [DBS](dbs) | [DAWA](dawa) |
-| [CNA](cna) | [ISF](isf)                                      | [VSK](vsk) |              |
-|            | [AD](ad)                                        | [MC](mc)   |              |
+| [CNA](cna) | [ISF](isf)                                      | [VSK](vsk) | [IPCV](ipcv) |
+|            | [AD](ad)                                        | [MC](mc)   | [APPE](appe) |
 |            | [FKOM](fkom)                                    |            |              |
 |            | [PMB](pmb)                                      |            |              |
 |            | [MOD](pmb)                                      |            |              |
