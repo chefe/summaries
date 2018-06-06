@@ -43,7 +43,7 @@ _In diesem Beispiel ein Puffer mit der Länge 7 und ein Vorschaufenster mit der 
 
 ## Wie funktioniert LZW?
 \begin{figure}[H]
-    \includegraphics[width=0.9\textwidth]{images/13A-LZW.png}
+    \includegraphics[width=0.8\textwidth]{images/13A-LZW.png}
 \end{figure}
 
 ## Wie funktioniert die Huffmann-Kodierung?
@@ -59,7 +59,7 @@ _In diesem Beispiel ein Puffer mit der Länge 7 und ein Vorschaufenster mit der 
 * z.B. .21376 kann mit möglichst wenig Bits dargestellt werden
 
 \begin{figure}[H]
-    \includegraphics[width=0.6\textwidth]{images/13B-Arithmetische-Kodierung.png}
+    \includegraphics[width=0.4\textwidth]{images/13B-Arithmetische-Kodierung.png}
 \end{figure}
 
 ## Wie ist der Informationsgehalts eines Ereigniss definiert?

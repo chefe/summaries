@@ -117,7 +117,7 @@ Ausgangsbild:   4 5 6 7 7   Formel: f(i) = x/c * cdf(i)
     \includegraphics[width=0.3\textwidth]{images/01D-nachbarschaft.png}
 \end{figure}
 
-## Wie funnktioniert Connected component labeling?
+## Wie funktioniert Connected component labeling?
 \begin{figure}[H]
     \includegraphics[width=0.6\textwidth]{images/01E-connected-component-labeling.png}
 \end{figure}
