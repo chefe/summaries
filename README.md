@@ -8,7 +8,7 @@ Just some personal summaries for hslu
 | [BW](bw)   | [ITEO](iteo)                                    | [DBS](dbs) | [DAWA](dawa) |
 | [CNA](cna) | [ISF](isf)                                      | [VSK](vsk) | [IPCV](ipcv) |
 |            | [AD](ad)                                        | [MC](mc)   | [APPE](appe) |
-|            | [FKOM](fkom)                                    |            |              |
+|            | [FKOM](fkom)                                    |            | [PMRE](pmre) |
 |            | [PMB](pmb)                                      |            |              |
 |            | [MOD](pmb)                                      |            |              |
 |            | [DMATH](https://github.com/hslu-students/dmath) |            |              |
