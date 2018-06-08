@@ -1,6 +1,6 @@
 # Einführung
 
-## Für welche Zwcke wird Bilderkennung eingesetzt?
+## Für welche Zwecke wird Bilderkennung eingesetzt?
 * Gesichtserkennung
 * Robotersteuerungen
 * Medizinische Anwendungen
