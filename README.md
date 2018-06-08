@@ -9,6 +9,6 @@ Just some personal summaries for hslu
 | [CNA](cna) | [ISF](isf)                                      | [VSK](vsk) | [IPCV](ipcv) |
 |            | [AD](ad)                                        | [MC](mc)   | [APPE](appe) |
 |            | [FKOM](fkom)                                    |            | [PMRE](pmre) |
-|            | [PMB](pmb)                                      |            |              |
+|            | [PMB](pmb)                                      |            | [CI](ci)     |
 |            | [MOD](pmb)                                      |            |              |
 |            | [DMATH](https://github.com/hslu-students/dmath) |            |              |
