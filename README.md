@@ -10,5 +10,5 @@ Just some personal summaries for hslu
 |            | [AD](ad)                                        | [MC](mc)   | [APPE](appe) |
 |            | [FKOM](fkom)                                    |            | [PMRE](pmre) |
 |            | [PMB](pmb)                                      |            | [CI](ci)     |
-|            | [MOD](pmb)                                      |            |              |
+|            | [MOD](pmb)                                      |            | [GDF](gdf)   |
 |            | [DMATH](https://github.com/hslu-students/dmath) |            |              |
