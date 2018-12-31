@@ -1,4 +1,4 @@
-SUBFOLDERS = bw cna iteo isf ad fkom pmb mod dbs vsk mc dawa ipcv appe pmre ci gdf
+SUBFOLDERS = bw cna iteo isf ad fkom pmb mod dbs vsk mc dawa ipcv appe pmre ci gdf cg
 
 all:
 	# make subfolders
