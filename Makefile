@@ -1,4 +1,4 @@
-SUBFOLDERS = bw cna iteo isf ad fkom pmb mod dbs vsk mc dawa ipcv appe pmre ci gdf cg pcp enapp dl4g
+SUBFOLDERS = bw cna iteo isf ad fkom pmb mod dbs vsk mc dawa ipcv appe pmre ci gdf cg pcp enapp dl4g ios
 
 all:
 	# make subfolders
