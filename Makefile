@@ -1,24 +1,23 @@
-SUBFOLDERS = bw cna iteo isf ad fkom pmb mod dbs vsk mc dawa ipcv appe pmre ci gdf cg pcp enapp dl4g ios
+subdirs := bw cna iteo isf ad fkom pmb mod dbs vsk mc dawa ipcv appe pmre ci gdf cg pcp enapp dl4g ios
 
-all:
-	# make subfolders
-	$(foreach var,$(SUBFOLDERS),make -C $(var);)
+.PHONY: all zip folder clean rebuild $(subdirs)
 
-	# copy all pdfs into a single folder
-	mkdir -p summaries
-	$(foreach var,$(SUBFOLDERS),cp $(var)/zusammenfassung.pdf summaries/zusammenfassung-$(var).pdf;)
-
-	# generate zip file contain all summaries
-	zip -r summaries.zip summaries/
+all: $(subdirs)
 
 clean:
-	# clean all subfolders
-	$(foreach var,$(SUBFOLDERS),make clean -C $(var);)
-
-	# delete folder with all pdfs
+	rm -f ./*/zusammenfassung.pdf
 	rm -rf summaries
-
-	# remove zip file with summaries
 	rm -f summaries.zip
 
 rebuild: clean all
+
+zip: rebuild
+	zip -r summaries.zip summaries/
+
+folder:
+	mkdir -p summaries
+
+$(subdirs): folder
+	$(MAKE) -C $@
+	cp $@/zusammenfassung.pdf summaries/zusammenfassung-$@.pdf
+
