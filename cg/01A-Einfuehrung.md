@@ -1,7 +1,7 @@
 # Einführung
 
 ## Wo werden überall Computergrafik gebraucht?
-GUI, Visualisierungen, Filme, Werbung, 
+GUI, Visualisierungen, Filme, Werbung,
 Architektur, Spiele, Virtual Reality
 
 ## Wie heissen die Schritte in einer CG Pipline?

@@ -15,13 +15,13 @@
 
 ## Was ist die Idee hinter der Tiefensortierung?
 * Sortiere Polygone in geeigneter Reihenfolge
-* Zeichne Polygone in dieser Reihenfolge, 
+* Zeichne Polygone in dieser Reihenfolge,
 * die zuletzt gezeichneten Polygone überdecken die früheren
 
 ## Wie wird bei der Sortierung für die Tiefensortierung vorgegangen?
 1. sortiere Polygone nach minimaler z-Koordinate
 2. falls sich die Polygone in z überlagern, betrachte zusätzliche Bedingungen
-3. falls keine der Bedingungen erfüllt ist, 
+3. falls keine der Bedingungen erfüllt ist,
     \newline vertausche die Polygone und überprüfe die Bedingungen nochmals
 
 ## Welche Bedingungen werden bei der Tiefensuche überprüft?

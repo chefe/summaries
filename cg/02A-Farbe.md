@@ -25,7 +25,7 @@
 
 ## Wie kann eine Dithermatrix aussehen?
 ```
-2x2     3x3         4x4   
+2x2     3x3         4x4
 ---    -----    -----------
 0 2    6 8 4     0  8  2 10
 3 1    1 0 3    12  4 14  6
@@ -47,12 +47,12 @@
 Beispiel für eine $2 \times 2$ Dithermatrix:
 
 ```
-i = x modulo n                    
+i = x modulo n
 j = y module n
 
 der Pixel (x,y) wird gesetzt, falls I(x,y) > Dij
 
-Dij = [ 0 2 
+Dij = [ 0 2
         3 1 ]
 
 I_neu = I_alt * 5 / 256

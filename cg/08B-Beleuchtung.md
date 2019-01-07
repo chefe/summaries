@@ -31,7 +31,7 @@ $I_d = I_L * k_d * cos \phi$ mit $cos \phi = \vec{N} * \vec{L}$
 
 ## Wie funktioniert eine spiegelnde Reflektion (Phong Modell)?
 * Simulation der Spiegelung auf glänzenden Oberflächen, wie Plastik, Metall oder lackiertes Holz
-* die Intensität des Lichts nimmt mit $cos^n \phi$ ab, 
+* die Intensität des Lichts nimmt mit $cos^n \phi$ ab,
     \newline wobei $\phi$ der Winkel zwischen der idealen Reflektionsrichtung und der betrachteten Richtung ist
 
 ## Wie wird die spiegelnde Reflektion berechnet?

@@ -1,11 +1,11 @@
 # Raytracing
 
-## Für was wird Raytracing gebracuht?
+## Für was wird Raytracing gebraucht?
 * Erzeugung von photorealistischen Bildern
 * Berücksichtigung von Spiegelung und Transparenz
 * Pro Pixel wird ein Strahl gelegt und das Objekt ermittelt, das zuerst geschnitten wird
 * Weitere Strahlen werden verwendet um zusätzliche Effekte zu erzielen
-    * Spiegelung, Transparenz, Schatten, Umgebungslichtes
+    * Spiegelung, Transparenz, Schatten, Umgebungslicht
 
 ## Wie funktioniert ein einfacher Raytracing Algorithmus?
 ```

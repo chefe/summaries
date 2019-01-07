@@ -35,8 +35,8 @@ $F_{ij}$ Formfaktor
 * Lösung durch Approximationen und geometrische Interpretation
 
 ## Welche Möglichkeiten gibt es für die Berechung der Radiosity?
-* Progressive Radiosity: 
+* Progressive Radiosity:
     * Berechnung und frühe Darstellung einer approximativen Lösung
-* Hierarchical Radiosity: 
+* Hierarchical Radiosity:
     * Erhöhung der Anzahl Patches wo es notwendig ist
 

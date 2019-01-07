@@ -119,7 +119,7 @@ $n_x x + n_y y + n_z z - D = 0$
 $\vec{n} = \begin{bmatrix}n_x\\n_y\\n_z\end{bmatrix} = \dfrac{1}{\sqrt{a^2 + b^2 + c^2}} \begin{bmatrix}a\\b\\c\end{bmatrix}$
 
 ## Wie wird die Projektion eines Vektors auf einen anderen Vektor berechnet?
-Komponente von $\vec{b}$ in Richtung von $\vec{a}$: 
+Komponente von $\vec{b}$ in Richtung von $\vec{a}$:
 $\hspace{5mm} \vec{b}_{\vec{a}} = \dfrac{\vec{a} \odot \vec{b}}{|\vec{a}|^2} \vec{a}$
 
 ## Was sind die Eigenschafen des Vektorprodukt?
@@ -155,11 +155,11 @@ _Merkhilfe:_
 
 ## Was sind die Rechenregeln für das Spatprodukt?
 * Vertauschen von zwei bewirkt Vorzeichenwechsel
-    * $[\vec{a}, \vec{b}, \vec{c}] = - [\vec{b}, \vec{a}, \vec{c}]$ 
+    * $[\vec{a}, \vec{b}, \vec{c}] = - [\vec{b}, \vec{a}, \vec{c}]$
 * Zyklisches Vertauschen ändert nichts
-    * $[\vec{a}, \vec{b}, \vec{c}] = [\vec{b}, \vec{c}, \vec{a}]$ 
+    * $[\vec{a}, \vec{b}, \vec{c}] = [\vec{b}, \vec{c}, \vec{a}]$
 * Multiplikation mit reellen Zahlen
     * $[\lambda \vec{a}, u \vec{b}, v \vec{c}] = \lambda u v [\vec{a}, \vec{b}, \vec{c}]$
 * Addition zweier Vektoren
-    * $[\vec{a} + \vec{b}, \vec{c}, \vec{d}] = [\vec{a}, \vec{c}, \vec{d}] + [\vec{b}, \vec{c}, \vec{d}]$ 
+    * $[\vec{a} + \vec{b}, \vec{c}, \vec{d}] = [\vec{a}, \vec{c}, \vec{d}] + [\vec{b}, \vec{c}, \vec{d}]$
 

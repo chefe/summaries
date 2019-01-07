@@ -15,7 +15,7 @@ Direkte Ausführung auf der Grafikhardware
 * Vertex Processing:
     * Berechnet die Position eines Vertex
     * Vorberechnungen von weiteren Daten für Fragment Processing möglich
-* Fragment Processing: 
+* Fragment Processing:
     * Berechnet die Farbe des Pixels
 
 ## Wie sieht eine vereinfachte WebGL Pipeline aus?

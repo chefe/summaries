@@ -38,7 +38,7 @@
 Gebiet im Zentrum des Sichtfeldes mit grosser Zäpfchendichte, aber ohne Stäbchen
 
 ## Welche Arten von Zäpfchen gibt es?
-* 3 Arten von Zäpfchen: 
+* 3 Arten von Zäpfchen:
     * S - blau (440nm)
     * M - grün (530nm)
     * L - rot (560nm)
@@ -131,7 +131,7 @@ Y' = Y - K
 ## Was sind die Eigenschaften des HSV Farbmodell?
 * Empfindungsmässig bedeutsame Dimensionen
 * Setzt sich ebenfalls aus 3 Grundkomponenten zusammen
-    * Hue(Farbton, Farbe), 
+    * Hue(Farbton, Farbe),
     * Saturation (Sättigung, Reinheit)
     * Value (Intensität)
 
@@ -156,10 +156,10 @@ V = 0.615 * (R - Y) / (1 - 0.299)
 ```
 
 ## Für was stehen die Begriffe Tints und Shades?
-* Tints: 
+* Tints:
     * Verringern der Sättigung
     * Von "reiner" Farbe zu Weiss
-* Shades: 
+* Shades:
     * Verringen der Helligkeit
     * Von "reiner" Farbe zu Schwarz
 
@@ -185,7 +185,7 @@ Unterschied zwischen zwei Helligkeitswerte
 * Hoher Kontrast
 
 ## Was ist der Grund, dass viele Farbsysteme 3 Grundfarben verwenden?
-Farben werden durch 3 Typen von Zellen wahrgenommen. 
+Farben werden durch 3 Typen von Zellen wahrgenommen.
 
 ## Wie viele Spektralfarben können durch Mischen von 2 Spektralfarben erzeugt werden?
 Keine
@@ -197,8 +197,8 @@ grün-blau
 Alle Farben die im Innern des Dreiecks RGB liegen
 
 ## In welcher Farbe erscheint ein gelber Tennisball?
-* wenn er von einer blauen Lichtquelle beschienen wird? 
+* wenn er von einer blauen Lichtquelle beschienen wird?
     * => schwarz
-* wenn er von einer roten Lichtquelle beleuchtet wird? 
+* wenn er von einer roten Lichtquelle beleuchtet wird?
     * => rot
 

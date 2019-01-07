@@ -46,7 +46,7 @@ $\gamma: [a,b] \rightarrow R^3,t \mapsto X(t) = \left[\begin{array}{c}x_1(t)\\x_
     * Kontrollpunkte beeinflussen die Form der Kurve
     * wird häufig in der Praxis verwendet
 
-## Wieso werden Kurve gebraucht?
+## Wieso werden Kurven gebraucht?
 * Begrenzung einer Fonts mit Hilfe von Bézier-Kurven
 * Schwerpunkte von Objekten bewegen sich entlang von Kurven
 * viele Objekte (wie Strassen, Räder, etc.) werden durch Kurven begrenzt
@@ -63,7 +63,7 @@ $\left[ \begin{array}{rrrr}
     1 & 1 & 1 & 1 \\
     1 & 2 & 4 & 8 \\
     1 & 3 & 9 & 27
-\end{array} \right] 
+\end{array} \right]
 \left[ \begin{array}{c}
     c_0 \\ c_1 \\ c_2 \\ c_3
 \end{array} \right] =
@@ -114,7 +114,7 @@ $B_i^n(t) = \binom{n}{i} (1-t)^{n-i} t^i$ für $(0 \leq i \leq n)$
     * oder nicht rationalen B-Spline-Funktionen
     * oder Basis-Funktionen
 * Änderung der Kontrollpunkte haben nur lokalen Einfluss
-* Grad ist abhängig von der Anzahl Kontrollpunkte 
+* Grad ist abhängig von der Anzahl Kontrollpunkte
 * falls Parameterwerte äquidistant sind hat man uniforme, sonst nicht uniforme B-Spline-Kurven
 
 ## Wie werden B-Spline-Kurven berechnet?
@@ -126,7 +126,7 @@ $N_{j,1}(t) = \begin{cases}
     0 & sonst
 \end{cases}$ \newline
 
-$N_{j,m}(t) = \dfrac{t-t_j}{t_{j+m-1}-t_j} N_{j,m-1}(t) + 
+$N_{j,m}(t) = \dfrac{t-t_j}{t_{j+m-1}-t_j} N_{j,m-1}(t) +
 \dfrac{t_{j+m} - t}{t_{j+m}-t_{j+1}} N_{j+1,m-1}(t), \hspace{5mm} m=2,3,\dots,k$ \newline
 
 $t_j = \begin{cases}
@@ -151,6 +151,6 @@ $P(t) = \dfrac{\sum_{j=0}^n N_{j,k}(t) w_j P_j}{\sum_{j=0}^n N_{j,k}(t) w_j}$
     * durch zusätzliche Gewichte $w_i$
     * die homogene Koordinate, für die Koordinaten der Kontrollpunkte
 * Bézier- und B-Spline-Kurven sind Spezialfälle von NURBS-Kurven
-* NURBS sind invariant bei den Transformationen 
+* NURBS sind invariant bei den Transformationen
     * Skalierung, Translation, Rotation, Scherung und den Parallel- und Perspektivprojektionen
 

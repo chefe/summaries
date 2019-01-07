@@ -27,7 +27,7 @@ Digital Differential Analyzer
 * Implizite Darstellung einer Linie:
     * $F(x,y) = ax + by + c$
 * Ist der Punkt (x,y) auf der Linie, so gilt:
-    * $F(x,y) = 0$, 
+    * $F(x,y) = 0$,
 * Ist der Punkt (x,y) unterhalb oder oberhalb der Linie so ist:
     * $F(x,y) = d \neq 0$
 
@@ -138,7 +138,7 @@ Until AET == empty
 
 ## Wie funktioniert Prefiltering?
 * arbeitet beispielsweise mit Graustufen
-* bestimme die Fläche der Linie auf dem Pixel 
+* bestimme die Fläche der Linie auf dem Pixel
 * wähle die Farbintensität proportional zur Fläche
 
 ## Wie funktioniert Supersampling?
