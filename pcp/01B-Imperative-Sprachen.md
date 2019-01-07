@@ -3,16 +3,16 @@
 ## Was bedeutet imperare?
 befehlen, anordnen
 
-## Was sind charakteristiken der imperativen Programmierung?
+## Was sind Charakteristiken der imperativen Programmierung?
 * Programm besteht aus Sequenz von Anweisungen
 * Kontrollfluss ist klar vorgegeben, grundsätzlich sequentiell
 
 ## Was sind Charakteristiken der strukturierten Programmierung?
-* spezialisierung des imperativen Paradigmas
+* Spezialisierung des imperativen Paradigmas
 * verlangt Beschränkung auf drei Kontrollstrukturen:
     1. Sequenzen (Hintereinander auszuführende Programmanweisungen)
     2. Auswahl (Verzweigung: Bedingung)
-    3. Wiederholung 
+    3. Wiederholung
 * Konsequenz: goto darf nicht eingesetzt werden
 
 ## Was sind Charakteristiken der prozeduralen Programmierung?
@@ -30,9 +30,9 @@ befehlen, anordnen
 ## Was sind Beispiele für ADTs?
 | __Name__ | __Operationen__                       |
 |----------|---------------------------------------|
-| Stack    | init, push,pop, top, isEmpty          |
+| Stack    | init, push, pop, top, isEmpty          |
 | Queue    | init, add, remove, isEmpty            |
-| Matrix   | addition,mulitplication, inverse, ... |
+| Matrix   | addition, mulitplication, inverse, ... |
 
 ## Worin unterschieden sich ADT in C und Java?
 * Implementierung der Datenstruktur ist getrennt von der dazu gehörigen Funktionen

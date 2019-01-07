@@ -43,7 +43,7 @@ $\texttt{symbol=? 'Hallo 'ABC}$
 
 ## Wie wird eine Fallunterscheidung (switch) in Scheme realisiert?
 ```
-(cond 
+(cond
     (<condition clause1> <expr1>)
     (<condition clause2> <expr2>)
     ...

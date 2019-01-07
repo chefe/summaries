@@ -1,7 +1,7 @@
 # Scheme 3
 
 ## Wie ist eine Liste definiert?
-* Allgemein ist eine Liste leer oder
+* Allgemein ist eine Liste leer
 * oder besteht aus einem ersten Element und einem Rest
 * wobei der Rest selbst wieder eine Liste ist
 
@@ -52,7 +52,7 @@ empty
 
 ## Wie wird eine Funktion geschrieben um die Werte einer Liste zu summieren?
 ```
-(define (sum a-list) (cond 
+(define (sum a-list) (cond
     ((empty? a-list) 0)
     (else (+ (first a-list) (sum (rest a-list))))
 ))
@@ -60,9 +60,9 @@ empty
 
 ## Wie wird eine Funktion geschrieben um die Listenwerte zu verdoppeln?
 ```
-(define (redouble a-list) (cond 
+(define (redouble a-list) (cond
     ((empty? a-list) empty)
-    (else (cons 
+    (else (cons
         (* 2 (first a-list))
         (redouble (rest a-list))
     ))

@@ -56,7 +56,7 @@ is_bigger(X, Y) :- bigger(X, Z), is_bigger(Z, Y).
 * heisst anonyme Variable
 * Platzhalter, dessen Wert nicht interessiert
 * jedes Auftreten von `_` repräsentiert eine neue Variable
-* Instanziierungen von `_` werden nicht ausgegeben
+* Instanzierungen von `_` werden nicht ausgegeben
 
 ## Was ist ein Grundterm?
 * Terme ohne Variablen
@@ -67,13 +67,13 @@ is_bigger(X, Y) :- bigger(X, Z), is_bigger(Z, Y).
 * falls Atome: Fakten, z.B. `bigger`
 * sonst: Regeln, z.B.: `is_bigger(X, Y) :- bigger(X, Y)`
 
-## Was wird unter dem Begriff Arity vertstanden?
+## Was wird unter dem Begriff Arity verstanden?
 * im Deutschen Stelligkeit
 * Anzahl Argumente von einem Prädikat
 * wird in Prolog im Format `is_bigger/2` angegeben
 
 ## Weshalb ist die Stelligkeit relevant?
-Prolog behandelt zwei Prädikate mit gleichem Funktor aber mit 
+Prolog behandelt zwei Prädikate mit gleichem Funktor aber mit
 unterschiedlicher Stelligkeit als zwei verschiedene Prädikate
 
 ## Welche eingebaute Prädikate gibt es in Prolog?
@@ -113,7 +113,7 @@ read(X), write(X).
 Beweissuche mittels Backtracking und Matching
 
 ## Wie ist Matching definiert?
-* Zwei Terme matchen, wenn sie identisch sind oder 
+* Zwei Terme matchen, wenn sie identisch sind oder
 * wenn sie durch Ersetzten von Variablen durch andere Terme identisch gemacht werden können
 
 ## Wie können zwei Terme gematcht werden?
@@ -134,33 +134,33 @@ true.
 
 ## Wie sind die drei Matching Regel in Prolog definiert?
 1. Zwei atomare Terme matchen, wenn sie die gleiche Zahl oder das gleiche Atom sind
-2. Falls einer der Terme eine Variable ist, 
+2. Falls einer der Terme eine Variable ist,
     * dann matchen die beiden Terme
     * und die Variable wird mit dem Wert des zweiten Terms instanziiert
-3. Zwei zusammengesetzte Terme matchen, 
-    * falls gleicher Funktor, gleiche Stelligkeit 
+3. Zwei zusammengesetzte Terme matchen,
+    * falls gleicher Funktor, gleiche Stelligkeit
     * und alle korrespondierenden Argumente matchen
 
-## Wie können einfach Abfragen mit Matching prgrammiert werden?
+## Wie können einfach Abfragen mit Matching programmiert werden?
 ```
 vertical(line(point(X,_), point(X,_))).
 horizontal(line(point(_,Y), point(_,Y))).
 
 ?- vertical(line(point(1,1), point(1,5))).
-true. 
+true.
 
 ?- horizontal(line(point(1,2),point(3,X))).
-X = 2. 
+X = 2.
 ```
 
 ## Was ist Unifikation?
 bekanntes Verfahren in der Logik zur Vereinheitlichung von Ausdrücken
 
 ## Was ist der Unterschied zwischen Unifikation und Matching?
-Matchingmacht keinen OccursCheck
+Matching macht keinen Occurs Check
 
 ## Was ist ein Occurs Check?
-Falls eine Variable mit einem Term vereinheitlicht wird, 
+Falls eine Variable mit einem Term vereinheitlicht wird,
 wird zuerst getestet, ob diese Variable in diesem Term vorkommt
 
 ## Wie kann in Prolog ein Occurs Check durchgeführt werden?

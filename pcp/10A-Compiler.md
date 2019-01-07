@@ -54,7 +54,7 @@ Ein Übersetzerprogramm, das
 * Analyse des hierarchischen Programmaufbaus
 * Analyse der Tokens
 * Tokens folgen den Grammatikregeln
-* Erkennung von 
+* Erkennung von
     * Variablen-/Funktions-/Klassen-Definitionen
     * arithmetischen Ausdrücken
     * Anweisungen
@@ -151,7 +151,7 @@ zu jedem Bezeichner wird die vorhandene Information abgelegt
 * Typinformationen enthält, um zulässige Operationen zuordnen zu können
 * Instruktionen zur Organisation von Threads und Interaktion
 * muss möglichst kompakt und serialisierbar sein
-* enthälz zusätzliche Metainformationen
+* enthält zusätzliche Metainformationen
 
 ## Was sind die Komponenten einer virtuellen Maschine?
 * Code-Optimierer

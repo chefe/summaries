@@ -11,7 +11,7 @@
 ## Wie lässt sich mit Prolog ein Kreuzworträtsel lösen?
 ```
 word(d,o,g).	   word(r,u,n).	      word(t,o,p).        word(u,n,i,t).
-word(f,i,v,e).     word(f,o,u,r).     word(l,o,s,t).      word(m,e,s,s).     
+word(f,i,v,e).     word(f,o,u,r).     word(l,o,s,t).      word(m,e,s,s).
 word(b,a,k,e,r).   word(f,o,r,u,m).   word(g,r,e,e,n).    word(s,u,p,e,r).
 word(p,r,o,l,o,g). word(v,a,n,i,s,h). word(w,o,n,d,e,r).  word(y,e,l,l,o,w).
 
@@ -25,7 +25,7 @@ solution(L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13,L14,L15,L16) :-
 
 ## Wie kann mit Prolog ein Programm zum Färben ein Karte realisiert werden?
 ```
-% Possible pairs of colors of neighboring countries 
+% Possible pairs of colors of neighboring countries
 n(red, green).      n(red, blue).       n(green, red).
 n(green, blue).     n(blue, red).       n(blue, green).
 
@@ -33,7 +33,7 @@ n(green, blue).     n(blue, red).       n(blue, green).
 colors(CH, A, D, I, F, B, N) :-
     CH = red,                               % Switzerland must be red
     n(CH, A), n(CH, I), n(CH, F), n(CH, D), % Allneighborsof Switerland
-    n(A, D), n(A, I),                       % Allneighborsof Autria (*) 
+    n(A, D), n(A, I),                       % Allneighborsof Autria (*)
     n(I, F),                                % Allneighborsof Italy (*)
     n(F, B),                                % Allneighborsof France (*)
     n(D, B), n(D, N),                       % Allneighborsof Germany (*)
@@ -92,7 +92,7 @@ true.
 * Tiefere Präzedenz = stärkere Bindung
 * in SWI-Prolog wird die Präzedenz als Wert zwischen 1 und 1200 angegeben
 
-## Welche drei Gruppen von Operator Typen gibt es?
+## Welche drei Gruppen von Operatoren Typen gibt es?
 * __Infix:__ xfx, xfy, yfx
     * d.h. Operator f zwischen den beiden Operanden
 * __Präfix:__ fx, fy
@@ -111,6 +111,6 @@ fak(N, F) :-      % generalcase
     N > 0,        % argument test
     N1 is N –1,   % evaluate N-1
     fak(N1, F1),  % recursive call
-    F is N * F1.  % sum up 
+    F is N * F1.  % sum up
 ```
 

@@ -11,10 +11,10 @@ schrittweises Verfahren zur Lösung von einem Problem
 (oder einer Klasse von Problemen)
 
 ## Was ist der Unterschied zwischen Syntax & Semantik?
-* Syntax: 
+* Syntax:
     * "Zusammenfügungsregeln"
     * gibt das Muster vor, nach dem Programme einer Sprache aufgebaut sind
-* Semantik: 
+* Semantik:
     * "Interpretationsregeln"
     * definiert die Bedeutung von Programmen (Anweisungen, Operatoren, usw.)
 
@@ -31,7 +31,7 @@ kein endloses Band möglich
 * eine bestimmt Art die Struktur und Elemente von Programmen aufzubauen
 
 ## Wie wird der Begriff Paradigma definiert?
-eine grundlegende wissenschaftliche Denkweise (acuh Denkmuster oder Schema)
+eine grundlegende wissenschaftliche Denkweise (auch Denkmuster oder Schema)
 
 ## Wie heissen die grundlegenden Programmierparadigmen?
 * imperativ
@@ -89,7 +89,7 @@ gcd(A, B, G) :- B > A, C is B-A, gcd(C, A, G).
 
 
 ## Was sind Eigenschaft des imperativen Programmierparadigmas?
-* ist eng angelehnt an die Ausführung von Maschinen-Code 
+* ist eng angelehnt an die Ausführung von Maschinen-Code
 * auf Computern, die nach der Von-Neumann-Architektur implementiert sind
 
 ## Was sind Eigenschaft der strukturierten Programmierung?

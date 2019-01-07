@@ -64,9 +64,9 @@
 (define out (open-output-file "output.txt"))
 
 ; Datei-Schreiben
-(define (output-file a-list) (cond 
+(define (output-file a-list) (cond
     ((null? a-list) (newline out))
-    (else (begin 
+    (else (begin
         (write (first a-list) out)
         (write-char #\space out)
         (output-file (rest a-list))

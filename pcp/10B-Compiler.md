@@ -1,6 +1,6 @@
 # Compiler 2
 
-## Aus welchen Bestandteilen setzt sich Sprache zusammen?
+## Aus welchen Bestandteilen setzt sich eine Sprache zusammen?
 * Menge von Sätzen
 * die sich aus einer definierten Menge von Zeichen
 * unter Beachtung der Syntaxregeln bilden lassen

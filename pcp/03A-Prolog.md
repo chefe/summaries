@@ -6,7 +6,7 @@
 * alle Aufrufe vor dem rekursiven Aufruf müssen deterministisch sein
 * Vorteil: Kein Backtracking notwendig!
 * Endrekursion kann als Iteration ausgeführt werden
-* benötigt dann keinen zusätzlichen Speicherplatz 
+* benötigt dann keinen zusätzlichen Speicherplatz
 
 ## Wie wird eine Endrekursion in Prolog aufgebaut?
 ```
@@ -108,7 +108,7 @@ Z = [].
 ```
 
 ## Was sind die Eigenschafte einer Liste in Prolog?
-* Elemente einer Liste werden in eckigen Klammern eingeschlossen 
+* Elemente einer Liste werden in eckigen Klammern eingeschlossen
 * Elemente werden durch Komma getrennt
 * Länge einer Liste ist die Anzahl Elemente, welche in dieser Liste enthalten sind
 * Listen-Elemente sind beliebige Prolog Terme

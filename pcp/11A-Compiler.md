@@ -1,9 +1,9 @@
 # Compiler Bau 1
 
-## Was ist ein Parser Generatore?
-* dienen der automatischen Generierung eines Parsers 
+## Was ist ein Parser Generator?
+* dienen der automatischen Generierung eines Parsers
     * für eine entsprechende Sprachspezifikation
-* erzeugt als Augabe ein Programm
+* erzeugt als Ausgabe ein Programm
     * ist einen Parser für diese Sprache
     * in einer vorher angegeben Programmiersprache implementiert
 * Umfang der Zielsprachen ist abhängig vom jeweiligen Generator

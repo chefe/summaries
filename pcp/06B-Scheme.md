@@ -6,7 +6,7 @@
 * Generative Rekursion
 
 ## Was ist der Unterschied strukturellen, akkumulative und generativen Rekursion?
-* strukturellen Rekursionen 
+* strukturellen Rekursionen
     * Parameter sind bei einem Aufruf entweder unverändert
     * oder eine Stufe näher zum Basisfall
 * akkumulative Rekursion
@@ -93,7 +93,7 @@ Funktionen, die andere Funktionen als Parameter und/oder Resultat haben
 
 ## Was sind die Eigenschaften der map Funktion?
 * Definition: `(map <function> <list1>...<listN>)`
-* wendet `<function>` auf jedes Element von `<list1>...<listN>` an 
+* wendet `<function>` auf jedes Element von `<list1>...<listN>` an
 * liefert eine neue Liste von Elementen zurück, auf die `<function>` zutrifft
 * `<function>` muss soviel Argumente besitzen, wie es `<list1>...<listN>` gibt
 * alle Listen `<list1>...<listN>` müssen die gleiche Anzahl Elemente besitzen
@@ -101,7 +101,7 @@ Funktionen, die andere Funktionen als Parameter und/oder Resultat haben
 
 ## Was sind die Eigenschaften der apply Funktion?
 * Definition: `(apply <function> <value>...<list>)`
-* wendet `<function>` auf jedes Element von `<val>...<list>` an 
+* wendet `<function>` auf jedes Element von `<val>...<list>` an
 * liefert einen Wert vom Datentyp, auf den `<function>` zutrifft
 * `<function>` muss soviel Argumente besitzen, wie es `<value>...<list>` gibt
 * das letzte Argument muss eine Liste sein

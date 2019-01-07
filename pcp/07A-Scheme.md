@@ -7,7 +7,7 @@
 
 ## Wie kann eine lokale Funktion zum Verdoppeln einer Liste genutzt werden?
 ```
-(define (redouble a-list) 
+(define (redouble a-list)
     (local (
         (define (f x) (* x 2))
         (define (g a-numlist) (cond
