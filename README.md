@@ -13,5 +13,5 @@ Personal summaries for study @ hslu
 |            | [MOD](pmb)   |            | [GDF](gdf)   |                |
 |            | [DMATH][2]   |            |              |                |
 
-[1]: https://github.com/chefe/summaries/releases)
-[1]: https://github.com/hslu-students/dmath
+[1]: https://github.com/chefe/summaries/releases
+[2]: https://github.com/hslu-students/dmath
