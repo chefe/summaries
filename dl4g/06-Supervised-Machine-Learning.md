@@ -11,7 +11,7 @@
     * eine Mischung zwischen Supervised und Unsupervised Learning
     * wird meistens benutzt wenn eine kleine Anzahl an gelabelten Daten zur Verfügung stehen
 4. Reinforcement Learning
-    * Keine Daten stehen zur Verfügung 
+    * Keine Daten stehen zur Verfügung
     * der Algorithmus wird durch eine Reward Funktion geleitet
     * das ideale Verhalten wird gesucht um die Reward Funktion zu maximieren
 
@@ -20,7 +20,7 @@
 * Programmierfehler oder technische Probleme
 * Alter der Daten (z.B. ungültige E-Mail Adressen)
 * schlechte Dateneingabemasken (fehlende Validierung)
-* menschliche Fehler bei der Daten Exportierung 
+* menschliche Fehler bei der Daten Exportierung
 * ungültige oder falsche Informationen
 
 ## Welche Möglichkeiten gibt es die Qualität von Daten festzustellen?

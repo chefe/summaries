@@ -63,9 +63,9 @@
 * Quadrat der Gewichte zur loss-Funktion addieren
 
 ## Welche anderen Regularisierungens-Methoden gibt es?
-* Ensemble method: 
+* Ensemble method:
     * Abstimmung von mehreren separat trainierten Netzwerken
-* Dropout: 
+* Dropout:
     * Zufällig Knoten mit 0 multiplizieren
     * Netzwerk muss mehrere Wege finden
 * Early stopping:

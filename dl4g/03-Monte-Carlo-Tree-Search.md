@@ -5,7 +5,7 @@
 * Extensives minimax mit alpha-beta pruning löst 4-gewinnt
 * Tiefenlimitierter minimax mit Heuristiken bezwingt Schachweltmeister
 * diese Ideen funktionieren nicht für GO und Spiele mit sehr vielen Möglichkeiten
-* Entwickeln von Regeln und Heuristiken ist extrem schwierig 
+* Entwickeln von Regeln und Heuristiken ist extrem schwierig
 * Heuristiken erforderen viel Domänenwissen
 
 ## Wieso werden Random Walks eingesetzt?
@@ -34,10 +34,10 @@
     * Monte Carlo Tree Search expects payoffs in [0,1]
 
 ## Welche zwei Ansätze gibt es beim Auswählen eines neuen Knotens?
-* Exploitation: 
+* Exploitation:
     * immer bestes payoff wählen
     * Anhand der Beobachtungen auf der besten Maschine spielen um Gewinn zu maximieren
-* Exploration: 
+* Exploration:
     * etwas neues wählen, versuchen möglichst viel zu erkunden
     * alle Maschinen spielen um möglichst viel Informationen zu gewinnen
 

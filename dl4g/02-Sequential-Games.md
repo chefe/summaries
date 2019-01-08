@@ -65,7 +65,7 @@ _Vergleichswert: Anzahl Atome im Universum 10^80_
 ## Was bedeutet Rationalität?
 Spieler nimmt nicht die schlechtere Alternative
 
-## Welche Arten von endlichen-sequenziellen Spielen werden unterschieden?
+## Welche Arten von Lösungen werden bei endlichen-sequenziellen Spielen unterschieden?
 * ultraschwach
     * hat der erste Spieler ein Vorteil
     * beispielsweise durch Existenzbeweise in Mathe
@@ -82,7 +82,7 @@ Spieler nimmt nicht die schlechtere Alternative
 * Vorteil für einen Spieler ist zum Nachteil des anderen Spielers
 * Punktesumme für zwei Strategien ist immer 0
 
-## Was sind die Charakteristiken des MiniMax-Algorithmus?
+## Was sind die Charakteristiken des Minimax-Algorithmus?
 * gilt nur für einen Nullsummenspiel
 * zwei Möglichkeiten / Ziele
     * eigenen Gewinn maximieren

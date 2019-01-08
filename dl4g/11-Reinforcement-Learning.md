@@ -20,7 +20,7 @@
 * gibt stabileres Netzwerk
 
 ## Was ist die Idee hinter Inception und Res-Net?
-* Inception 
+* Inception
     * mehrere Layer nebeneinander und dann addieren
 * Res-Net
     * Shortcut zwischen einzelnen Knoten
@@ -32,7 +32,7 @@
 * Aktionen beeinflussen die Umgebung
 
 ## Was ist reinforcement learning nicht?
-* supervised learning 
+* supervised learning
     * es gibt keinen Supervisor der sagt was richtig ist
 * unsupervised learning
     * es werden auch keine Strukturen gesucht
@@ -51,7 +51,7 @@ $G_t = R_{t_1} + y R_{t_2} + y^2 R_{t_3} + \dots = \sum_{k=0}^{\infty} y^k R_{t+
 
 * $A_t$: Aktion zur Zeit $t$
 * $S_t$: Status zur Zeit $t$
-* $R_t$: Reward zur Zeit $t$ (aufgrund $S_{t-1}$ und $A_{t_1}$
+* $R_t$: Reward zur Zeit $t$ (aufgrund $S_{t-1}$ und $A_{t_1}$)
 * $\pi$: sagt was die zu wählende Aktion ist
 * $\pi (a|s)$: Wahrscheinlichkeit das Aktion $a$ gewählt wird im Status $s$
 * $G_t$: Summe aller Rewards (meistens mit Discount Reward)
@@ -59,14 +59,14 @@ $G_t = R_{t_1} + y R_{t_2} + y^2 R_{t_3} + \dots = \sum_{k=0}^{\infty} y^k R_{t+
 * $v(s)$: erwarteter Wert im Zustand $s$
 
 ## Welche Arten von RL Agenten gibt es?
-* Value based: No Policy (implicit), Value Function
-* Policy Based: Policy, No Value Function
-* Actor Critic: Policy, Value Function
-* Model Free: Policy and/or Value, No Model
-* Model: Policy and/or Value Function, Model
+* __Value based:__ No Policy (implicit), Value Function
+* __Policy Based:__ Policy, No Value Function
+* __Actor Critic:__ Policy, Value Function
+* __Model Free:__ Policy and/or Value, No Model
+* __Model:__ Policy and/or Value Function, Model
 
 ## Welche Varianten von greedy Algorithmen gibt es?
-* greedy: 
+* greedy:
     * Aktion wählen mit dem Maximalen geschätzten Wert
 * non greedy:
     * Zufällige Aktion wählen
