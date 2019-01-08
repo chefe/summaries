@@ -23,7 +23,7 @@ Message Oriented Middleware
 
 ## Was sind Administrative Objekte?
 * sind JMS Objekte konfiguriert um von Clients verwendet zu werden
-* Administratoren erzeugen administrative Objekte 
+* Administratoren erzeugen administrative Objekte
 * stehen allen Applikationen eines App-Servers zur Verfügung stehen
 * Entwickler benutzen Annotationen um Applikation spezifische Objekte zu erzeugen
 
@@ -49,7 +49,7 @@ Message Oriented Middleware
     * Message-Queue kann mehrere Consumer haben
     * wenn ein Consumer die Message konsumiert, dann wird sie gelöscht
 * Publish / Subscribe Architektur
-    * die Topic-Queue hält alle Messages 
+    * die Topic-Queue hält alle Messages
     * Message bleibt in der Queue bis sie von allen Subscribern konsumiert wurden
     * fällt ein Subscriber aus, behält die Topic-Queue die Message zurück
 

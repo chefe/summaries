@@ -88,7 +88,7 @@ doDelete()  doTrace()   doOptions()
     * Gültig während User Interaktionen mit einem spezifischen "Ablauf"
     * z.B: Suche
 * __Request__
-    * `javax.enterprise.context.RequestScoped)`
+    * `javax.enterprise.context.RequestScoped`
     * Gültig während einer einzigen HTTP Anfrage in einer Web Applikation
 * __Dependent__
     * `javax.enterprise.context.Dependent`
@@ -100,7 +100,7 @@ doDelete()  doTrace()   doOptions()
 
 ## Was ist ein Management Bean?
 * normales Bean mit Annotationen
-* wird von Servelt Container verwaltet
+* wird von Servlet Container verwaltet
 
 ## Welche Attribute kennt die WebFilter Annotation?
 ```
@@ -149,7 +149,7 @@ public void destroy()
             System.out.println("Evaluating date now");
             java.util.Date date = new java.util.Date();
         %>
-        Hello!The time is now 
+        Hello!The time is now
         <%
             // Scriptlet generiert HTML Output
             out.println( String.valueOf( date));
@@ -172,7 +172,7 @@ public void destroy()
 import javax.faces.bean.ManagedBean;
 @ManagedBean(name= "HelloWorld", eager= true)
 public class HelloWorld {
-    public HelloWorld() { 
+    public HelloWorld() {
         System.out.println("HelloWorldstarted!");
     }
     public String getMessage() {

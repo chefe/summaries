@@ -93,7 +93,7 @@ Inversion of Control
 
 ## Wie wird der EL Name definiert?
 ```
-@SessionScoped @Named("cart") 
+@SessionScoped @Named("cart")
 public class ShoppingCart implements Serializable {
     // ...
 }

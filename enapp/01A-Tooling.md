@@ -20,8 +20,8 @@
 ```
 @WebServlet(name = "MyServlet")
 public class MyServlet extends HttpServlet {
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) 
-        throws ServletException, IOException 
+    protected void doGet(HttpServletRequest request, HttpServletResponse response)
+        throws ServletException, IOException
     {
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
@@ -68,9 +68,9 @@ private MyStatelessSessionBeanLocal myBean;
 @Entity
 @NamedQueries({
     @NamedQuery(name = "getUsers", query = "SELECT u FROM UserEntity u"),
-    @NamedQuery(name = "getUserByName", 
+    @NamedQuery(name = "getUserByName",
         query = "SELECT u FROM UserEntity u WHERE u.name = :name"),
-    @NamedQuery(name = "getUserByEmail", 
+    @NamedQuery(name = "getUserByEmail",
         query = "SELECT u FROM UserEntity u WHERE u.email = :email")
 })
 @Table(name = "user", schema = "eatme", catalog = "")
@@ -88,7 +88,7 @@ private EntityManager entityManagerMock;
 private TypedQuery<ChatmessageEntity> queryMock;
 
 @InjectMocks
-private ChatServicessubjectUnderTest;
+private ChatService subjectUnderTest;
 ```
 
 ## Wie wird mit JPA ein AttributeConverter implementiert?

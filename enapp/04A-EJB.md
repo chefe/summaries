@@ -1,8 +1,8 @@
-# Enterprise Java Beans 
+# Enterprise Java Beans
 
 ## In welche Layers wird eine Java EE Applikation üblicherweise unterteilt?
 * View Layer
-* Business Layer 
+* Business Layer
 * JPA Layer
 
 ## Welche EJB Typen gibt es?
@@ -25,7 +25,7 @@ Serverseitige Komponenten in Java geschrieben die Business Logik zusammenfassen
     * Proxy-Object zwischen CLient und EJB instance
     * wird automatisch vom Container erledigt
 * EJB instance
-    * Instanze eines EJB 
+    * Instanze eines EJB
     * wird durch Entwickler geschrieben
 
 ## Was sind die Vorteile von Java Enterprise Beans?
@@ -46,7 +46,7 @@ Serverseitige Komponenten in Java geschrieben die Business Logik zusammenfassen
     * z. B. Exeption- und Hilfsklassen.
 
 ## Welche EJB Methoden Typen gibt es?
-* Lebenszyklus- oder Call Back Methoden
+* Lebenszyklus- oder Callback Methoden
     * werden vom Container aufgerufen
     * EJB Komponenten Entwickler kann diese Methoden implementieren
     * Beispiel: `@PreDestroy` oder `@PostConstruct`
@@ -92,7 +92,7 @@ Serverseitige Komponenten in Java geschrieben die Business Logik zusammenfassen
 * nach einer bestimmten verstrichenen Zeit
 * an bestimmten, sich wiederholenden Zeitintervallen
 
-## Wieso können Statefull-Beans den EJB Timer Service nicht benutzen? 
+## Wieso können Statefull-Beans den EJB Timer Service nicht benutzen?
 * weil Statefull-Bean auf Festplatte geschrieben werden kann
 * und dann nicht mehr im Memory zugreifbar ist
 

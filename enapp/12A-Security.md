@@ -17,8 +17,8 @@ Configuration Mgmt    Benutzer-Schulung
 
 ## Welche Security Technologien gibt es für Java EE?
 ```
-Public Key Infrastructure           XML Security Specifications    
-Transport Layer Security            Anti-Virus Software            
+Public Key Infrastructure           XML Security Specifications
+Transport Layer Security            Anti-Virus Software
 Vulnerability Analysis Tools        Virtual Private Networks
 Authentication Servers / SSO        Intrusion Detection Systems
 Firewalls                           Cryptography
@@ -38,11 +38,11 @@ Firewalls                           Cryptography
     * Prüfung auf gültige Objekt-Verweise und prüfen der Vererbungshierarchie
     * Datenflussanalyse der Methoden während dem Linken
     * Referenzen überprüfen während dem dynamischen Linken
-* Classloader: 
+* Classloader:
     * Laden von Klassen in Namespaces
     * Überprüfen von bereits geladenen Klassen
     * Protection Domains
-* Security-Manager: 
+* Security-Manager:
     * Durchsetzen der Rechte einer Protection Domain
 
 ## Was ist eine Protection Domain?
@@ -79,11 +79,11 @@ Java Authentication and Authorization Service
 * ist die Standardimplementierung des JEE-deklarativen Sicherheitsmodells
 
 ## Welche Objekte gibt es bei JAAS?
-* Subject 
+* Subject
     * ist eine Person oder ein Dienst
     * stellt die anfragende Quelle dar
     * repräsentiert die Informationen einer einzelnen Entität
-* Principal 
+* Principal
     * ist Wert für die Identität eines Subject
     * Subject kann mehrere Principal haben
     * z.B. Benutzername, E-Mail Adresse, Kreditkartennummer
@@ -93,7 +93,7 @@ Java Authentication and Authorization Service
 
 ## Was ist das Ziele der Java EE Security Spezifikation?
 * __Portabilität:__ Write Once, Run Anywhere
-* __Transparenz:__ Entiwckler brauchen keine grossen Kenntnisse über Security
+* __Transparenz:__ Entwickler brauchen keine grossen Kenntnisse über Security
 * __Isolation / Abstraktion:__ Trennung von Business und Security
 * __Erweiterbarkeit:__ Einbindung von Sicherheits-Services
 * __Unabhängigkeit:__ Einbindung von verschiedenen Sicherheitstechnologien ist möglich
@@ -194,7 +194,7 @@ public double getSalary(String employeeId) {
     * werden zur Authentifizierung an den EJB-Tier weitergeleitet
 * Authentifizierung im Web-Tier
     * is Best Practice
-    * im Web-Tier werden die Informationen des Users ermittelt 
+    * im Web-Tier werden die Informationen des Users ermittelt
     * Authentifizierung wird ebenfalls im Web-Tier durchgeführt
     * der Web-Tier leitet die Identity des Users an EJB-Tier weiter
 

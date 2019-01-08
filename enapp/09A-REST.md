@@ -58,7 +58,7 @@ beim Client
     * REST
         * URL identifiziert die gewünschten Ressourcen
         * HTTP Methode identifiziert die gewünschte Operation
-        * Proxy entscheidet basierend auf der Ressource und der HTTP Methode 
+        * Proxy entscheidet basierend auf der Ressource und der HTTP Methode
     * SOAP
         * URL ist nicht die Target Ressource
         * Proxy muss herausfinden welche Ressource angesteuert wird
