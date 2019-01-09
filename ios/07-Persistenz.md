@@ -45,7 +45,7 @@ do {
         options: 0)
     try namesData.write(to: filePath)
 }
-catch { print("Something went wront: \(error)") }
+catch { print("Something went wrong: \(error)") }
 ```
 
 ## Wofür sind UserDefaults gedacht?
@@ -71,14 +71,14 @@ UserDefaults.standard.integer(forKey: "key")
 * wird im Core Data Framework benutzt
 
 ## Was ist Core Data?
-* Object-Relatoonal Mapping Technologie von Apple
+* Object-Relational Mapping Technologie von Apple
 * bietet Unterstützung für Versionierung von Modellen
 * ermöglicht Daten Migration
 
 ## Was sind die Features von Core Data?
-change tracking, change propagation, lazy loading, automatic validation, 
-schema migration, interface synchronization, grouping, filtering, 
-storing objects in external data repositories, query compilation, 
+change tracking, change propagation, lazy loading, automatic validation,
+schema migration, interface synchronization, grouping, filtering,
+storing objects in external data repositories, query compilation,
 version tracking, optimistic locking
 
 ## Welche zwei Test-Typen gibt es für iOS?
@@ -93,7 +93,7 @@ XCTFail             XCTAssertEqualObjects   XCTAssertTrue
 XCTAssertEquals     XCTAssertNil            XCTAssertThrows
 ```
 
-## Welch Möglichkeiten gibt es für Inter-App Kommunikation?
+## Welche Möglichkeiten gibt es für Inter-App Kommunikation?
 * Andere App starten
     * Methode `open` von `UIApplication`
     * URLs für System-Apps: `http, mailto, tel, sms, youtube, itunes, ...`

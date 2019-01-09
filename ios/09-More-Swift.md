@@ -1,7 +1,7 @@
 # More Swift
 
 ## Was sind mathematische Beispiele für die folgenden Operatoren-Typen?
-* `prefix`: Vorzeichen 
+* `prefix`: Vorzeichen
 * `infix`: Plus
 * `postfix`: Fakultät
 
@@ -195,7 +195,7 @@ class RecipeIngredient: Food {
 ## Was ist ein Failable Initializer?
 * falls die Initialisierung eines Objektes fehlschlagen kann
 * erstellt ein Optional des Typs, welcher initialisiert wird
-* initialisierung wird mit return nil abgebrochen
+* Initialisierung wird mit return nil abgebrochen
 
 ```swift
 struct Animal {
@@ -232,14 +232,14 @@ class SomeClass {
     let someProperty: SomeType = {
         // create a default value for someProperty inside this closure
         // someValue must be of the same type as SomeType
-        returnsomeValue
+        return someValue
     }()
 }
 ```
 
 ## Was muss bei einem Deinitializer beachtet werden?
 * Höchstens ein `deinit` pro Klasse
-* Wird vom System beim löschen aufgerufen
+* Wird vom System beim Löschen aufgerufen
 * Darf nicht direkt aufgerufen werden
 * Kein Aufruf von super
 * nützlich zum Entfernen von Observers oder Schliessen von geöffneten Dateien

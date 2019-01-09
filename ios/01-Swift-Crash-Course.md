@@ -61,7 +61,7 @@ if let roomCount = john.residence?.numberOfRooms {
 }
 ```
 
-## Wie funktiniert der Nil Coalescing Operator (??) in Swift?
+## Wie funktioniert der Nil Coalescing Operator (??) in Swift?
 ```swift
 let john = a ?? b
 ```
@@ -75,7 +75,7 @@ let inc = number + 7
 var (_, justTheFlag, _) = testTuple
 ```
 
-## Wie funktionieren enannte Tupels?
+## Wie funktionieren benannte Tupels?
 ```swift
 let anotherTuple = (id : 66, name : "Ruedi")
 print("The id is \(anotherTuple.id)")
@@ -128,7 +128,7 @@ class SomeClass {
         get { return 42 }
     }
     // class = in Subklasse überschreibbar
-    class var overrideableCOmputedTypeProperty : Int {  
+    class var overrideableComputedTypeProperty : Int {
         get { return 42 }
     }
 }

@@ -57,7 +57,7 @@ class MyClass : MyProtocol {
     * `dataSource`: Datenlieferant (Protokoll: `UITableViewDataSource`)
     * `delegate`: Helfer für Benutzer-Action (Protokoll: `UITableViewDelegate`)
     * style (read-only)
-        * `UITableViewStylePlaini` oder `UITableViewStyleGrouped`
+        * `UITableViewStylePlain` oder `UITableViewStyleGrouped`
         * wird bei Objekterzeugung gesetzt (`init`-Methode)
 * `UITableViewCellStyle`
     * `UITableViewCellStyleDefault`
@@ -75,7 +75,7 @@ class MyClass : MyProtocol {
 
 ## Was ist der IndexPath?
 * repräsentiert den Pfad zur aktuellen Tabellenzelle
-* theoretisch bliebig verschachtelbar
+* theoretisch beliebig verschachtelbar
 * meistens wird jedoch via `row` und `section` zugegriffen
 
 ## Was ist die Aufgabe des `UINavigationController`?
@@ -87,12 +87,12 @@ class MyClass : MyProtocol {
     * `popViewControllerAnimated:`
     * `show:`
 
-## Was ist die Grundidee hinter dem stapeln von Views?
-* Push: 
+## Was ist die Grundidee hinter dem Stapeln von Views?
+* Push:
     * Neue View wird auf einen Navigation Controller gedrückt
     * `pushViewController:animated:`
-* Pop: 
-    * Alte View wird wieder von einen Navigation Controller enfernt
+* Pop:
+    * Alte View wird wieder von einen Navigation Controller entfernt
     * `popViewControllerAnimated:`
     * `popToRootViewControllerAnimated:`
     * `popToViewController:animated:`

@@ -12,18 +12,18 @@
 * Beschreibend, Trait Variations (Size Classes) & Auto Layout
 
 ## Wie werden Property und EventListener im Interface Builder angelegt?
-* Property (`@IBOutlet`)
-    * IBOutlet verbinden Layout mit Code
+* __Property__ (`@IBOutlet`)
+    * `IBOutlet` verbinden Layout mit Code
     * Verbindung ziehen im Interface Builder
     * Schlüsselwort `IBOutlet` bei der Deklaration
     * `@IBOutlet weak var myLabel: UILabel!`
     * Enge Bindung zwischen Interface Builder und Code
-* EventListener (`@IBAction`)
+* __EventListener__ (`@IBAction`)
     * Target/Action-Muster: Verbindet Action mit einem Ziel
-    * Action z.B. Knopfdruck, oder neuer Wert (Methode)
+    * Action z.B. Knopfdruck oder neuer Wert (Methode)
     * Ziel ist ein Objekt, welches die Nachricht erhält
     * `@IBAction func sliderValueChanged(sender: UISlider)`
-    * Konvention: Exakt ein Argument sender
+    * Konvention: Exakt ein Argument `sender`
 
 ## Wie wird mit Swift eine Alert-Box angezeigt?
 ```swift

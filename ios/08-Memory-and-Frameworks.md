@@ -42,7 +42,7 @@
     * Variable kann nicht `nil` werden
     * d.h. verwenden wenn Variable kein Optional ist
 
-## Wie können zyklische Abhängigkeiten verhindert werden? 
+## Wie können zyklische Abhängigkeiten verhindert werden?
 * Child -> Parent: `weak`
 * Parent -> Child: `strong`
 
@@ -70,7 +70,7 @@ class Player {
 * `CNContact`: Instanz eines Kontakts
 
 ## Welche Klassen und Protokolle bietet das EventKit Framework?
-* `EKEventStore`: Instanz für Zugriff auf den Kalender und Erinnerungen 
+* `EKEventStore`: Instanz für Zugriff auf den Kalender und Erinnerungen
 * `EKEvent`: Instanz eines Event
 * `EKEventEditViewController`: VC zum bearbeiten eines Kontakts
 * `EKEventEditViewDelegate`: auf die Ereignisse des VC reagieren

@@ -45,7 +45,7 @@ do {
 } catch pattern1 {
     //
 } catch pattern2 where condition {
-    // 
+    //
 }
 ```
 

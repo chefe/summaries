@@ -53,12 +53,12 @@ Exec-Datei-Name         Bundle ID           Bundle-Version
 
 ## Welche Properties im UIViewController sind für ModalViews wichtig?
 ```
-modalViewController     modalTransiIonStyle
+modalViewController     modalTransitionStyle
 ```
 
 ## Welche Properties im UIViewController sind für Navigation & Tabs wichtig?
 ```
-navigaIonController     navigaIonItem       toolbarItems
+navigationController    navigationItem      toolbarItems
 tabBarController        tabBarItem
 ```
 
@@ -82,7 +82,7 @@ viewDidDisappear        didReceiveMemoryWarning
     * typischerweise Content ViewControllers
     * z.B.: `UINavigationController, UITabViewController, UISplitViewController`
 
-## Welche spezialisierungen des UIViewController existieren?
+## Welche Spezialisierungen des UIViewController existieren?
 ```
 UITableViewController   UINavigationController  UITabBarController
 UIPageViewController    UISplitViewController   UIPopoverController
@@ -90,7 +90,7 @@ UIPageViewController    UISplitViewController   UIPopoverController
 
 ## Was ist ein Modal View Controller?
 * Teil der Klasse `UIViewController`
-* d.h. UIViewController kann auch eine Art Container View Controller sein
+* d.h. `UIViewController` kann auch eine Art Container View Controller sein
 * öffnet neue View über der aktuellen View
 
 ## Wie kann ein ViewController manuell angezeigt werden?

@@ -35,7 +35,7 @@
 
 ## Welcher Trick hat Apple für Retnia Displays erfunden?
 * nur jedes 2. Pixel direkt ansprechbar
-* daher muss das lAyout nicht angepasst werden
+* daher muss das Layout nicht angepasst werden
 
 ## Welche Auflösungs-Selektoren gibt es bei iOS?
 * `@1x`: Normale Auflösung (nur noch alte Geräte)
@@ -77,9 +77,9 @@ self.title = NSLocalizedString("Title", comment: "Label: Title")
 ```
 
 ## Was ist die ISO-Definition von Usabilitiy?
-Gebrauchstauglichkeit (engl. Usability) bezeichnet das Ausmass, in dem 
-ein Produkt, System oder ein Dienst durch bestimmte Benutzer in einem 
-bestimmten Anwendungskontext genutzt werden kann, um bestimmte Ziele 
+Gebrauchstauglichkeit (engl. Usability) bezeichnet das Ausmass, in dem
+ein Produkt, System oder ein Dienst durch bestimmte Benutzer in einem
+bestimmten Anwendungskontext genutzt werden kann, um bestimmte Ziele
 effektiv, effizient und zufriedenstellend zu erreichen.
 
 ## Welche 3 Faktoren haben Einfluss auf die Usability?
