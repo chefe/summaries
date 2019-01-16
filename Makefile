@@ -11,7 +11,9 @@ clean:
 
 rebuild: clean all
 
-zip: rebuild
+zip:
+	$(MAKE) clean
+	$(MAKE) -j8 all
 	zip -r summaries.zip summaries/
 
 folder:
