@@ -4,7 +4,7 @@
 ```
 :- use_module(library(clpfd)).
 sudoku(Rows) :-
-    append(Rows, Vs), Vs ins 1..9,  % nru Zahlen von 1 bis 9 möglich
+    append(Rows, Vs), Vs ins 1..9,  % nur Zahlen von 1 bis 9 möglich
     maplist(all_distinct, Rows),    % Zeilen paarweise verschieden
     transpose(Rows, Columns),
     maplist(all_distinct, Columns), % Spalten paarweise verschieden

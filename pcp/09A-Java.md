@@ -1,6 +1,6 @@
 # Java 3
 
-## Wie können meherer String aneinander gehängt werden?
+## Wie können mehrerer Strings aneinander gehängt werden?
 ```
 String message = String.join("-", "Java", "is", "cool");
 // message returned is: "Java-is-cool"

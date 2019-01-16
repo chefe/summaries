@@ -5,7 +5,7 @@
 * Akkumulative Rekursion
 * Generative Rekursion
 
-## Was ist der Unterschied strukturellen, akkumulative und generativen Rekursion?
+## Was ist der Unterschied zwischen strukturellen, akkumulative und generativen Rekursion?
 * strukturellen Rekursionen
     * Parameter sind bei einem Aufruf entweder unverändert
     * oder eine Stufe näher zum Basisfall
