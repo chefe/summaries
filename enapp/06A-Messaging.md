@@ -1,7 +1,7 @@
 # Messaging
 
 ## Wofür steht die Abkürzung JMS?
-Java Messaging System
+Java Messaging Service
 
 ## Was sind die Vorteile von JMS?
 * einfache Integration
