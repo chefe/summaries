@@ -7,7 +7,7 @@ Personal summaries for study @ hslu
 |:----------:|:------------:|:----------:|:------------:|:--------------:|:------------:|
 | [BW](bw)   | [ITEO](iteo) | [DBS](dbs) | [DAWA](dawa) | [CG](cg)       | [AISO](aiso) |
 | [CNA](cna) | [ISF](isf)   | [VSK](vsk) | [IPCV](ipcv) | [PCP](pcp)     | [SPRG](sprg) |
-|            | [AD](ad)     | [MC](mc)   | [APPE](appe) | [ENAPP](enapp) |              |
+|            | [AD](ad)     | [MC](mc)   | [APPE](appe) | [ENAPP](enapp) | [SWAT](swat) |
 |            | [FKOM](fkom) |            | [PMRE](pmre) | [DL4G](dl4g)   |              |
 |            | [PMB](pmb)   |            | [CI](ci)     | [IOS](ios)     |              |
 |            | [MOD](pmb)   |            | [GDF](gdf)   |                |              |
