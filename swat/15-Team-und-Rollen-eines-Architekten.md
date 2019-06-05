@@ -1,4 +1,4 @@
-# Team and Technical Excellence for Architects
+# Team und Rollen eines Architeken
 
 ## Welche Werte werden durch Scrum gefördert?
 Courage, Respect, Commitment, Focus, Openness

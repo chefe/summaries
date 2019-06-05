@@ -1,4 +1,4 @@
-# Architectural Trends 1
+# Architektur Trends 1
 
 ## Gehören Architektur und Technologie zusammen?
 * Architektur ist von der gewählten Technologie abhängig

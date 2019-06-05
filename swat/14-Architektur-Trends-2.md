@@ -1,4 +1,4 @@
-# Architectural Trends 2
+# Architektur Trends 2
 
 ## Je kleiner das Stück, umso ...
 * besser wird die Architektur
