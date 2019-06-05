@@ -19,32 +19,13 @@ Not Invented Here
 Rapid application developement
 
 ## Welche Design Patterns gibt es gemäss der Gang of Four?
-* Creational
-    * Abstract Factory
-    * Builder
-    * Factory Method
-    * Prototype
-    * Singleton
-* Structural
-    * Adapter
-    * Bridge
-    * Composite
-    * Decorator
-    * Facade
-    * Flyweight
-    * Proxy
-* Behavioral
-    * Chain of Responsability
-    * Command
-    * Interpreter
-    * Iterator
-    * Mediator
-    * Memento
-    * Observer
-    * State
-    * Strategy
-    * Template Method
-    * Visitor
+* __Creational:__
+    * Abstract Factory, Builder, Factory Method, Prototype, Singleton
+* __Structural:__
+    * Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
+* __Behavioral:__
+    * Chain of Responsability, Command, Interpreter, Iterator, Mediator
+    * Memento, Observer, State, Strategy, Template Method, Visitor
 
 ## Welche Objekte gibt es bei einem Domain Driven Design?
 * Entities - Objekte haben eine Identität (z.B. Person, Firma)
