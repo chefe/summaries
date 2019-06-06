@@ -1,3 +1,7 @@
 *.swp
 *.pdf
+*.epub
+*.mobi
+*.html
 summaries.zip
+_helpers/template.css
