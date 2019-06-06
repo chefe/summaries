@@ -2,7 +2,7 @@
 
 ## Was ist Graph K-Colouring?
 * versuchen Graph mit `k` Farben zu färben
-* Nachbarn haben immer Unterschiedliche Fareben
+* Nachbarn haben immer Unterschiedliche Farben
 * Aussage: geht oder geht nicht
 
 ## Wie wird ein Constraint Problem optimiert?

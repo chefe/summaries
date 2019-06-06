@@ -12,7 +12,7 @@ Handlung des einen Spieler haben Auswirkungen andere Spieler
 alle Kombinationen von Aktionen und Spieler
 
 ## Was ist ein Nash Equlibrium?
-* ist ein stabiler zustand
+* ist ein stabiler Zustand
 * keine Einzelperson will die Meinung ändern (Unilateral)
 * nur wenn beide Meinung ändern können
 

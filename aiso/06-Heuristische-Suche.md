@@ -33,7 +33,7 @@
 * nicht komplett (Probleme mit Schleifen und Sackgassen)
 * Zeit- und Speicher-Komplexität ist `O(b^m)`
 
-## Was ist der A* Algorithmus?
+## Was ist der A-Star Algorithmus?
 * `f(n) = g(n) + h(n)`
 * kombiniert Greedy-Suche und Uniform-Cost-Search
 * Konflikt zwischen Pfadkosten und geschätztem Ziel
@@ -47,7 +47,7 @@
 ## Was ist eine konsistent Lösung?
 * Schätzung ist kleiner oder gleich Wege über Zwischenknoten
 
-## Was sind die Eigenschaften des A* Algorithmus?
+## Was sind die Eigenschaften des A-Star Algorithmus?
 * ist komplett, wenn eine Lösung existiert
     * begrenzte Anzahl Knoten mit begrenzter Anzahl Kinder
     * jede Aktion hat positive und endliche Kosten
@@ -61,8 +61,8 @@
     * exponentielle Komplexität
     * daher häufig nicht praktikabel für grosse Probleme
 
-## Was ist IDA*?
-* Iterative Deepening A*
+## Was ist IDA-Star?
+* Iterative Deepening A-Star
 * `(g) + h(n) > threshold`
 * berücksichtigt nur geschätzte Kosten, die kleiner sind als ein Schwellwert
 * wenn es nicht mehr weiter geht, neuer Schwellwert setzten
@@ -70,7 +70,7 @@
 * Schwellwert wird mit jeder Iteration erhöht
 * als nächster Wert wird Minimum der Pfadkosten über dem Schwellwert verwendet
 
-## Was sind die Eigenschaften von IDA*?
+## Was sind die Eigenschaften von IDA-Star?
 * ist optimal, wenn `h(n)` zulässig ist
 * Speicherkomplexität linear `O(l*b)`
     * `b` = Branching Faktor

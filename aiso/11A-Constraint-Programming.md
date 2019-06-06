@@ -2,7 +2,7 @@
 
 ## Welche zwei Strategien müssen für Backtrack Search definiert werden?
 1. Reihenfolge, in welcher die Variablen abgearbeitet werden
-2. Reihenfolge, in welcher die Wert abgearbeitet werden
+2. Reihenfolge, in welcher die Werte abgearbeitet werden
 
 ## Was sind die Vor- und Nachteile von Backtrack-Search?
 * vollständige Suche

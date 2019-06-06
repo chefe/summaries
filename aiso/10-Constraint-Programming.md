@@ -9,7 +9,7 @@
 * Wertebereiche (Frames)
 * Bedingungen (Constraints)
 
-## Welche Bestandteile gehören zu einem Constrain Problem?
+## Was sind die Eigenschaften dieser Bestandteile?
 * jede Variable kann Werte aus ihrem Wertebereich annehmen
 * eine Bedingung beschreibt einen Zustand der (nicht) erlaubt ist
 * eine Lösung ist eine gültige Zuweisung von Werten zu Variablen
@@ -53,7 +53,7 @@ while solver.NextSolution():
 	print()
 ```
 
-## Wie können symatrische Lösungen verhindert werden?
+## Wie können symmetrische Lösungen verhindert werden?
 durch Einfügen von zusätzlichen Bedingungen, z.B.:
 
 ```

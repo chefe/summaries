@@ -133,7 +133,7 @@
 ## Was ist ein Simple Reflex Agent?
 * reagiert direkt auf Wahrnehmung
 * d.h. Umgebung muss erfasst werden können
-* besteht aus einfache Regeln
+* besteht aus einfachen Regeln
 * aus Regeln wird direkt Aktion abgeleitet
 * hat kein Modell der Welt
 * verfügt über keine Speicherung
