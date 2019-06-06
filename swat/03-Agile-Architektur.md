@@ -3,17 +3,17 @@
 ## Was sind Agile Architekturprinzipien?
 * Design entwickelt sich weiter
 * Architekur ist immer eine Zusammenarbeit
-* Je grösser das System, desto länger die Vorbereitung
-* Immer die einfachste funktionierende Architekur benutzen
-* Bei Zweifel einen kleinen Prototype (Code oder Papier) machen
+* je grösser das System, desto länger die Vorbereitung
+* immer die einfachste funktionierende Architekur benutzen
+* bei Zweifel einen kleinen Prototype (Code oder Papier) machen
 * Software kompilieren, Testen und Ausführen
 * es gibt kein Monopol auf Ideen
 * Entscheidungen zur rechten Zeit treffen
-* Evolutionäres Design
+* evolutionäres Design
 
 ## Was sind die Auswirkungen einer agilen Architektur?
 * funktionierende Software ist wichtiger als umfassende Dokumentation
-* auf Änderungen eingehen anstelle einem starken Plan folgen
+* auf Änderungen annehmen, anstelle einem starken Plan folgen
 * persönlicher Austausch ist wichtiger als Tools und Prozesse
 * die beste Architektur entwickelt sich mit der Zeit
 * häufig reflektieren und anpassen

@@ -7,30 +7,29 @@
 * kontinuierliches Verbessern und Überarbeiten der Software
 
 ## Was ist das Ziel eines Refactoring?
-* Code sollte einfacher/wartbarer werden
-* Code ist "besser" als vorher
+Code sollte einfacher/wartbarer werden als vorher
 
 ## Wer und was sollte überarbeitet werden?
-* Wer: jeder Entwickler
-* Wann: ständig
-* Was: neuer und frisch geänderter Code
+* _Wer_: jeder Entwickler
+* _Wann_: ständig
+* _Was_: neuer und frisch geänderter Code
 
 ## Was sind häufige Irrglauben über Refactoring?
 * es muss für ein Refactoring gefragt werden
 * es braucht ein Backlog-Item für Refactoring
 
 ## Was sind einfache Refactorings?
-* Code formatiert gemäss Coding-Guidelines (automatisch durch Tool)
-* Benennung von Methoden und Variablen
-* Import-Statements sind korrekt
-* kein kommentierter Code
-* kein TODO, FIXME
-* keine leeren Methoden
-* keine leeren Catch-Blöcke
+* Code formatieren gemäss Coding-Guidelines (automatisch durch Tool)
+* Umbenennung von Methoden und Variablen
+* Import-Statements korrigieren
+* kommentierter Code löschen
+* TODO, FIXME Kommentare löschen
+* leeren Methoden finden und löschen
+* leeren Catch-Blöcke finden
 
 ## Wieso ist eine gewisse Code-Abdeckung notwendig?
-* mindestens 60% Abdeckung ist eine Voraussetzung
 * dient als Sicherheitsnetz beim Refactoring
+* mindestens 60% Abdeckung ist eine Voraussetzung
 * setzt TDD und ATDD voraus
 
 ## Was sind Beispiele für Refactorings in Java?
@@ -43,7 +42,7 @@
 * Bedingungen mit Filter ersetzten
 * Nicht-veränderbare Klassen vorziehen
 
-## Welche Länge sollte ein Feature und eine Story haben?
-* Features sollte nicht länger als 2 Monate dauern
-* Story sollte nicht länger als 1 Woche sein
+## Welche Länge sollte ein Feature bzw. eine Story haben?
+* __Feature:__ nicht länger als 2 Monate
+* __Story:__ nicht länger als 1 Woche
 

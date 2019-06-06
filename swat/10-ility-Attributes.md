@@ -1,15 +1,13 @@
 # illity-Attributes
 
 ## Was ist Architektur?
-* Requirements + -ility Attribute
+Requirements + -ility Attribute
 
 ## Wer definiert Requirements?
-* PO / Entwickler
+PO / Entwickler
 
-## Wer definiert ility-Attribute?
-* Staat
-* Kunde
-* Besitzer
+## Wer definiert die ility-Attribute?
+Staat, Kunde, Besitzer
 
 ## Was ist der Unetrschied zwischen Verification und Validation?
 * __Validation:__ Build the right product
@@ -21,7 +19,7 @@
 * Wertebereich (minimal, optimal, maximal)
 
 ## Was beschreibt eine Fitness-Funktion?
-Objektive Bewertung von gewissen Architektur Charakteristiken
+Objektive Bewertung von gewissen Architektur-Charakteristiken
 
 ## Was sind Datenquellen für eine Fitness-Funktion?
 * Static code analysis
@@ -32,7 +30,7 @@ Objektive Bewertung von gewissen Architektur Charakteristiken
 * Logging tools
 
 ## Was sind Beispiele für eine Fitness-Funktion?
-* code quality must be above 90% to be promoted to the next stage
+* Code quality must be above 90% to be promoted to the next stage
 * No secrets may be committed in plain text
 * You must always have a security testing stage
 * You must always have two approvers before production

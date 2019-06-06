@@ -1,36 +1,19 @@
 # Quality Abttributes
 
 ## Was bedeuten die Begriffe attitude und aptitude?
-* attitude
-    * wie man ein Problem angeht (Vorgehen)
-* aptitude
-    * was man kann (Fähigkeiten/Begabung)
+* __attitude:__ wie man ein Problem angeht (Vorgehen)
+* __aptitude:__ was man kann (Fähigkeiten/Begabung)
 
 ## Welche Charakeristiken hat ein agiles Vorgehen?
 * Änderungen sollten einfach sein
 * Probleme fixen die entdeckt werden (Feedback-Cycle)
 * nicht über die Zukunft spekulieren
-* es gibt immer Dinge die nicht funktionieren
+* es gibt immer Dinge, die nicht funktionieren
 * immer mit kleinen Team arbeiten
-
-## Was bedeutet der Begriff SMART?
-* S - Specific
-* M - Measurable
-* A - Attainable
-* R - Realizable
-* T - Traceable
-
-## Was bedeutet der Begriff INVEST?
-* I - Independent
-* N - Negotiable
-* V - Valuable
-* E - Estimable
-* S - Small
-* T - Testable
 
 # Wie sollten Stories formuliert werden?
 * As [role] I can [function] so that [rationale]
-* beschreiben gemäss INVEST
+* beschreiben der Stories gemäss INVEST
 * sollten Akzeptanz-Kriterien beinhalten
 
 ## Was bezeichnet die Abkürzung ATDD?

@@ -7,7 +7,7 @@
 * mehr Dokumentation = mehr Fehler
 * keiner liest ein Manual
 
-## Welche Eigenschaften sollte ein Architektur-Dokumentation erfüllen?
+## Welche Eigenschaften sollte eine Architektur-Dokumentation erfüllen?
 * ist kommunikativ gegenüber dem Leser
 * erklärt das System
 * verzichtet auf zu viele verschiedenen Notation
@@ -16,14 +16,13 @@
 * stellt Einfachheit über Raffinesse
 
 ## Was ist bei der Dokumentation eines Domain Driven Design wichtig?
-* der Code ist die Dokumentation
 * sinvoll sind kleine Modelle mit Erklärungen, Event-Diagramme
 * Nachvollziehbarkeit zwischen Code, Akzeptanz-Test und Anforderungen
 
 ## Was ist ein ADR?
 * Architectural Design Record
 * Dokumentierte Architektur-Entscheidungen mit Kontext und Beschreibung
-* umfasst eine History aller Entscheidung
+* umfasst eine History aller Architektur-Entscheidung
 
 ## Was und wie sollte dokumentiert werden?
 * stabile Konzepte dokumentieren

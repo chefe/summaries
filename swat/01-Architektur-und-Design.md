@@ -5,11 +5,11 @@
 * die Architektur verändert sich mit jedem Tag
 * muss jeden Tag gepflegt werden
 
-## Was ist ein Software Architekt?
-* muss im Code arbeiten (kann das System verändern)
+## Wer ist ein Software Architekt?
 * jeder Entwickler ist zu einem gewissen Grad ein Architekt
+* muss im Code arbeiten (kann das System verändern)
 
-## Was sind die agilen Prinzipien?
+## Was sind agilen Prinzipien?
 * Kunde glücklich machen und regelmässig Software ausliefern
 * täglicher Austausch während dem Projekt
 * Vertrauen in motivierte Mitarbeiter
@@ -23,24 +23,24 @@
 * Architektur haben (Resultat)
 
 ## Welche guten Design-Prinzipen gibt es?
-* KISS - Keep It Simple Stupid
-* DRY - Don't Repeat Yourself
-* YAGNI - You Aren't Gonna Need It
+* KISS -- Keep It Simple Stupid
+* DRY -- Don't Repeat Yourself
+* YAGNI -- You Aren't Gonna Need It
 * SOLID
 
 ## Welche Prinzipien gehören zu SOLID?
-* Single responsibility Principle
-* Open/Close Principle
-* Liskov Substitution Principle
-* Interface Segregation Principle
-* Dependency Inversion Principle
+* __S__ -- Single Responsibility Principle
+* __O__ -- Open Close Principle
+* __L__ -- Liskov Substitution Principle
+* __I__ -- Interface Segregation Principle
+* __D__ -- Dependency Inversion Principle
 
 ## Welche Dinge sollte man als Entwickler vermeiden?
 * Spghetti-Code
 * grosse Klassen / grosse Methoden
 * keine automatisierten Tests
 * kein automatisiertes Build-System
-* keine Singletons verwenden
-* keine Nullwerte zurückgeben
+* Singleton
+* Nullwerte zurückgeben
 * DTO (data transfer objects)
 

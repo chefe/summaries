@@ -7,11 +7,11 @@
 * __Smells:__ es kostet für die Wartung, subtile Unschönheit
 
 ## Welche Tools helfen beim Finden von Bugs in Java Code?
-* Jacoco - Java Code Coverage
-* SpotBugs - statische Analyse für Bugs
-* SonarLint / SonarQube - Qualitätsanalyse
-* Checkstyle - statische Analyse für Code-Style
-* PMD - statische Code Analyse
+* Jacoco -- Java Code Coverage
+* SpotBugs -- statische Analyse für Bugs
+* SonarLint / SonarQube -- Qualitätsanalyse
+* Checkstyle -- statische Analyse für Code-Style
+* PMD -- statische Code Analyse
 
 ## Wie heissen die wichtigsten Kategorien von OWASP?
 * Injection
@@ -48,5 +48,5 @@
 ## Was muss bei den Tests und den Checks beachtet werden?
 * müssen bei jedem Commit getriggert werden
 * müssen automatisch mit CI/CD ausgeführt werden
-* wenn nicht erfüllt muss der Build gesperrt werden
+* wenn nicht erfüllt, muss der Build gesperrt werden
 

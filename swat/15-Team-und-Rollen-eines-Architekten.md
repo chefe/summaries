@@ -22,10 +22,10 @@ Courage, Respect, Commitment, Focus, Openness
 * voreingenommene Technologie-Entscheidungen
 
 ## Welche Möglichkeiten gibt es ein Geschäft zu führen?
-* Control - Company oriented, Reality oriented
-* Competence - Company oriented, Possibilty oriented
-* Collaboration - People oriented, Reality oriented
-* Cultivation - People oriented, Possibilty oriented
+* __Control__ -- Company oriented, Reality oriented
+* __Competence__ -- Company oriented, Possibilty oriented
+* __Collaboration__ -- People oriented, Reality oriented
+* __Cultivation__ -- People oriented, Possibilty oriented
 
 ## Welche Punkte werden im Manifesto for Agile HR Development genannt?
 * Collaborative networks over hierarchical structures
