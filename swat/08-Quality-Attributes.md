@@ -11,7 +11,7 @@
 * es gibt immer Dinge, die nicht funktionieren
 * immer mit kleinen Team arbeiten
 
-# Wie sollten Stories formuliert werden?
+## Wie sollten Stories formuliert werden?
 * As [role] I can [function] so that [rationale]
 * beschreiben der Stories gemäss INVEST
 * sollten Akzeptanz-Kriterien beinhalten
