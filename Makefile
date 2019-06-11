@@ -13,7 +13,7 @@ rebuild: clean all
 clean:
 	rm -rf summaries summaries.zip _helpers/template.css
 
-$(SUBDIRS):
+$(SUBDIRS): _helpers/template.css
 	$(MAKE) -C $@
 
 _helpers/template.css:
