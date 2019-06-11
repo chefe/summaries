@@ -1,26 +1,26 @@
 # Sichere Requirements
 
 ## Für was steht die Abkürzung STRIDE?
-* __S__poofing (Authentication)
-* __T__ampering (Integrity)
-* __R__epudiation (Nonrepudiation)
-* __I__nformation Disclosure (Confidentiality)
-* __D__enial of Service (Availability)
-* __E__levation of Privilege (Authorization)
+* __S__ -- Spoofing (Authentication)
+* __T__ -- Tampering (Integrity)
+* __R__ -- Repudiation (Nonrepudiation)
+* __I__ -- Information Disclosure (Confidentiality)
+* __D__ -- Denial of Service (Availability)
+* __E__ -- Elevation of Privilege (Authorization)
 
 ## Was ist Spoofing?
 * betrifft Authentication
 * sich als jemand anderen ausgeben
-* verhindern das sich jemand als jemand anderen ausgibt
+* verhindern, dass sich jemand als jemand anderen ausgibt
 
 ## Was ist Tampering?
 * betrifft die Integrität
 * verändern von Daten oder Code
-* verhindern dass jemand unbemerkt Daten verändern kann
+* verhindern, dass jemand unbemerkt Daten verändern kann
 
 ## Was ist Repudiation?
 * Nichtabstreitbarkeit
-* jederzeit beweisen wer etwas gemacht hat
+* jederzeit beweisen, wer etwas gemacht hat
 
 ## Was ist Information Disclosure?
 * betrifft Vertraulichkeit
@@ -33,8 +33,8 @@
 
 ## Was ist Elevation of Privilege?
 * betrifft die Autorisierung
-* Rolle übernehmen ohne angebrachte Autorisierung
-* z.B. ausführen von Kommandos als root
+* Rolle übernehmen, ohne angebrachte Autorisierung
+* z.B. Ausführen von Kommandos als root
 
 ## Für was steht die Abkürzung LM?
 * Lateral Movement
@@ -57,11 +57,11 @@
     * Beschreiben Massnahmen
 
 ## Für was steht die Abkürzung DREAD?
-* __D__amage (wie schlimm ist eine Attacke)
-* __R__eproducibility (wie einfach kann die Attacke reproduziert werden)
-* __E__xploitability (wie aufwändig ist es die Attacke durchzuführen)
-* __A__ffected users (wie viele Personen sind von einer Attacke betroffen)
-* __D__iscoverability (wie einfach ist es Threats zu finden)
+* __D__ -- Damage (wie schlimm ist eine Attacke)
+* __R__ -- Reproducibility (wie einfach kann die Attacke reproduziert werden)
+* __E__ -- Exploitability (wie aufwändig ist es die Attacke durchzuführen)
+* __A__ -- Affected users (wie viele Personen sind von einer Attacke betroffen)
+* __D__ -- Discoverability (wie einfach ist es Threats zu finden)
 
 ## Was bezeichnet die Abkürzung CVSS?
 Common Vulnerability Scoring System

@@ -6,7 +6,7 @@
 * veröffentlichen regelmässig Top-10-Listen
 * Webapplikationen sind eines der grössten Probleme
 
-## Was sind die Top-10 Angriffe gemäass OWASP?
+## Was sind die Top-10 Angriffe gemäss OWASP?
 * Injection
 * Broken Authentication
 * Sensitive Data Exposure
@@ -36,9 +36,9 @@
     * durch beobachten des Verhalten Rückschlüsse ziehen
     * z.B. durch Verknüpfen von And-Statements und Sleep
 * 2nd order
-    * einfügen von Schadcode in für ein anderes System
+    * einfügen von Schadcode für ein anderes System
     * z.B. script-Tag in Log-Files schreiben
-    * welches dann später in einem Browser angeschaut wird
+    * welche dann später in einem Browser angeschaut wird
 
 ## Was sind die häufigsten Gründe, wieso eine Injection möglich ist?
 * Ignorieren von Best Practies

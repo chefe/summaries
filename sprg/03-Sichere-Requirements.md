@@ -59,9 +59,9 @@ erfüllen muss oder besitzen muss, um eine Steuerung zu erfüllen
 
 ## Wieso sollte man sich an Standards bei Anforderungsdokumenten halten?
 * einfachere Übergabe an neue Mitarbeiter
-* erlaubt es schneller den gesuchten Inhalt zu finden
-* erlaubt das selektive lesen und validieren von Dokumenten
-* erlaubt das wiederverwenden des Inhaltes
+* erlaubt es, schneller den gesuchten Inhalt zu finden
+* erlaubt das selektive Lesen und Validieren von Dokumenten
+* erlaubt das Wiederverwenden des Inhaltes
 
 ## Was bezeichnete die Abkürzung RUP?
 Rational Unified Process
@@ -101,7 +101,7 @@ Software Requirements Specification
 * z.B. Daten, Applikation, Host, Internes Netzwerk, ...
 * ist wegen Cloud heute nicht mehr einfach möglich
 
-## Was bedeutet eine Intrusion?
+## Was bedeutet Intrusion?
 * nicht authorisierter Zugriff auf ein System
 * Zugriff auf Computer, Service und Daten
 * geschieht meistens mit einer Malware
@@ -112,10 +112,10 @@ Software Requirements Specification
 * kann aber auch ein Hardware-Problem sein
 
 ## Was ist ein Exploit?
-Technik um das System zu Umgehen und ein Verwundbarkeit auszunutzen
+Technik, um das System zu Umgehen und ein Verwundbarkeit auszunutzen
 
 ## Was ist ein Payload?
-Daten welche an ein System übertragen werden
+Daten, welche an ein System übertragen werden
 
 ## Was ist eine Malware?
 * Malicious Software

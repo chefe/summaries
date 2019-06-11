@@ -94,15 +94,15 @@ Das System muss verstanden werden
 
 ## Was ist ein Requirement?
 Eine Bedingung oder Funktionalität, die von einem Benutzer gebraucht wird, um
-in Problem zu lösen oder ein Ziel zu erreichen. Ein Bedingung oder
-Funktionalität die ein System einhalten oder anbieten muss, um einen Vertrag,
+ein Problem zu lösen oder ein Ziel zu erreichen. Ein Bedingung oder
+Funktionalität, die ein System einhalten oder anbieten muss, um einen Vertrag,
 Standard, Anforderung oder ein anderes Dokument einzuhalten.
 
 ## Welche Schritte gehören zum Anforderungs-Zyklus?
-* Erhebung von Anforderungen
-* Dokumentation der Anforderungen
-* Validierung und Überprüfung der Anforderungen
-* Management der Anforderungen
+* Erheben
+* Dokumentieren
+* Validieren und Überprüfen
+* Management
 
 ## Wie unterscheiden sich die verschieden Repräsentationen einer Anforderung?
 * Instrument (Sprache, Modell, ...)

@@ -90,7 +90,7 @@ sollte immer dem Zweck angepasst sein
 ## Was bezeichnet der Begriff XXE?
 * XML External Data Entities
 * nachladen von Daten in einer XML Struktur
-* ermöglicht es beliebige Dateien vom Server zu lesen
+* ermöglicht es, beliebige Dateien vom Server zu lesen
 * wenn möglich immer deaktivieren
 
 ## Was bezeichnet der Begriff SAML?

@@ -3,13 +3,13 @@
 ## Welche Faktoren beeinflussen die Software Qualität?
 * Anforderungen an die Software
 * Konkurrierende Features
-* nimmt ab mit mehr Lines of Code
+* Qualität nimmt ab mit mehr Lines of Code
 
 ## Was ist das Verhältnis zwischen Entwicklung und Wartung?
 * 20% Entwicklung
 * 80% Wartung
 
-## Aus welchen Phasen kommen Software-Fehler?
+## In welchen Phasen kommt es zu Software-Fehler?
 * 56% Analyse und Spezifikation
 * 27% Design
 * 07% Coding
@@ -26,7 +26,7 @@ unexpected result, or to behave in unintended ways.
 
 ## Was sind Gründe für Software-Fehler?
 * schlechte oder fehlende Kommunikation
-* fehlende Prozess
+* fehlende Prozesse
 * Programmierfehler
 * Software-Komplexität
 * schlecht dokumentierter Code
@@ -92,7 +92,7 @@ unexpected result, or to behave in unintended ways.
 * Response
 
 ## Was bezeichnet die Abkürzung CIA?
-* Availability
-* Integrity
-* Confidentiality
+* __C__ -- Confidentiality
+* __I__ -- Integrity
+* __A__ -- Availability
 

@@ -1,28 +1,28 @@
 # XSS und CSRF
 
-## Was welchen Informationen setzt sich ein HTTP-Request zusammen?
+## Aus welchen Informationen setzt sich ein HTTP-Request zusammen?
 * Protokoll (z.B. `https`)
-* Adresse (z.B. `10.3.4.5:8080`)
+* Adresse (inkl. Port, z.B. `10.3.4.5:8080`)
 * Pfad (z.B. `index.php`)
 * Query-Parameters (z.B. `foo=bar&baz=baz`)
 * Methode (GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS)
 * Headers (cookie, agent, content-type, ...)
-* Request-Body (html, css, js, json, ...)
+* Body (html, css, js, json, ...)
 
 ## Was ist CSRF?
 * Cross Site Request Forgery
 * Daten von einer manipulierten Seite an den Server schicken
-* funktioniert weil Cookie mitgeschickt wird
+* funktioniert, weil Cookies automatisch mitgeschickt werden
 
 ## Wie kann CSRF verhindert werden?
-* samesite-Attribut auf Cookies verwenden
+* `samesite`-Attribut auf Cookies verwenden
 * versteckten CSRF-Token für Formulare verwenden
 * Token wird automatisch generiert und bei Anfrage überprüft
 
 ## Was ist XSS?
 * Cross Site Scripting
 * Code in die Seite eines Nutzers einfügen z.B. mit JS
-* erlaubt das stehten der User-Session
+* erlaubt das stehlen der User-Session
 * ermöglicht JS-Keylogger
 * ermöglicht es Dateien herunterzuladen
 

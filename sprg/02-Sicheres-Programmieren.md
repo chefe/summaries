@@ -15,10 +15,10 @@ Software zu bauen, die genau ihre Aufgabe erledigt aber nichts mehr
 * Richtlinien & Gesetze
 
 ## Was muss ein Entwickler verstehen um sicher zu programmieren?
-* häufige Design- und Implementierungsprobleme verstehen
+* häufige Design- und Implementierungsprobleme
 * kleine Probleme können sehr grosse Auswirkungen haben
-* Wissen was möglich ist um diese Risiken zu vermindern
-* Wissen wie ein sichere Entwicklungszyklus aussieht
+* Wissen, was möglich ist um diese Risiken zu vermindern
+* Wissen, wie ein sichere Entwicklungszyklus aussieht
 
 ## Was ist ein Risiko?
 * Schadensausmass * Schadenswahrscheinlichkeit
@@ -64,7 +64,7 @@ in eine Umgebung einführen kann oder Daten extrahieren kann.
 * D: Denial of Service
 * E: Elevation of Privilege
 
-## Was sind Gründe für häufigsten Implementationsfehler?
+## Was sind Gründe für häufige Implementationsfehler?
 * Nachlässigkeit oder Unwissenheit eines Entwickler
 * Ignoranz gegenüber den Implementationsdetails einer Bibliothek
 * fehlende Kenntnisse von Seiteneffekten
@@ -73,7 +73,7 @@ in eine Umgebung einführen kann oder Daten extrahieren kann.
 * Input und Output zu wenig genau definiert
     * Felder, Formate, Encoding, Protokolle
 
-## Was sind Massnhamen um diese Fehler zu verhindern?
+## Was sind Massnahmen um diese Fehler zu verhindern?
 * Entwickler schulen
 * robustes Design
 * Source Code überprüfen (Code Review, automatische Tools)
