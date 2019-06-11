@@ -5,7 +5,7 @@
 * Nachbarn generieren
 * Nachbarn bewerten
 * bester Nachfolger auswählen
-* so lange wiederholen bis genügend gute Lösung oder keine Zeit mehr
+* so lange wiederholen, bis genügend gute Lösung oder keine Zeit mehr
 
 ## Was sind die Vor- und Nachteile einer lokalen Suche?
 * Vorteile:
@@ -18,8 +18,8 @@
 
 ## Was sind die Eigenschaften des Hill-Climing-Aglorithmus?
 * weder komplett noch optimal
-* Probleme mit Plateaus (weil keine Steigerung in eine Richtung)
-* Probleme mit lokale Maxima, die nicht direkt Verbunden sind
+* Probleme mit Plateaus (weil keine Steigung in eine Richtung)
+* Probleme mit lokale Maxima, die nicht direkt verbunden sind
 
 ## Was sind die Eigenschaften eines Tabu Search?
 * basiert auf einer lokalen Suche
@@ -33,7 +33,7 @@
 ## Was ist ein genetischer Algorithmus?
 * Kind wird aus zwei Eltern generiert
 * Evolution wird gute Lösungen bringen
-* Gute Zustände kombinieren um noch bessere zu erhalten
+* Gute Zustände kombinieren, um noch bessere zu erhalten
 * nur die besten Zustände überleben
 
 ## Was bedeuten die Begriffe Selection, Mutation und Crossing?
@@ -47,7 +47,7 @@
 
 ## Was braucht es für einen genetischen Algorithmus?
 * Zustand als String encodieren
-* Fitness-Funktion um den Zustand zu bewerten
+* Fitness-Funktion, um den Zustand zu bewerten
 * mögliche Zustände
 
 ## Was sind die Schritte eines genetischen Algorithmus?
@@ -70,9 +70,9 @@
 ## Was ist die Idee von Simulated Annealing?
 * systematisches Einfügen von Rauschen über eine Temperatur
 * Rauschen mit der Zeit reduzieren (durch Zeitplan)
-* je tiefer desto unwahrscheinlich wird die Auswahl von schlechter Nachbarn
+* je tiefer, desto unwahrscheinlich wird die Auswahl von schlechter Nachbarn
 
-## Was ist der Unterschied zwischen A* und Hill Climbing?
+## Was ist der Unterschied zwischen A-Star und Hill Climbing?
 * Hill Climbing bleibt stecken auf einer Fläche
-* A* nicht weil dann zufälliger Nachbar genommen wird
+* A-Star nicht, weil dann zufälliger Nachbar genommen wird
 

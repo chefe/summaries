@@ -1,7 +1,7 @@
 # Simultane Spiele
 
 ## Was wird unter kompetitiven Optimierung verstanden?
-Handlung des einen Spieler haben Auswirkungen andere Spieler
+Handlung des einen Spieler haben Auswirkungen auf andere Spieler
 
 ## Welche Bestandteile gehören zu einem strategischen Spiel?
 * ein oder mehrere Spieler
@@ -40,12 +40,12 @@ Verteilung der Wahrscheinlichkeiten über die möglichen Strategien
 
 ## Was ist der Unterschied zwischen First- und Second Price Auction?
 * __First Price Auction:__
-    * Der höchst bietende gewinnt
+    * Der höchst Bietende gewinnt
     * Der Gewinner muss dieses Gebot bezahlen
     * Wenn $b_i$ nicht das Gewinner-Gebot ist, dann ist der Payoff $i = 0$
     * Wenn $b_i$ das Gewinner-Gebot ist, dann ist der Payoff $i = v_i - b_i$
 * __Second Price Auction:__
-    * Der höchst bietende gewinnt
+    * Der höchst Bietende gewinnt
     * Der Gewinner muss das zweithöchste Gebot bezahlen
     * Wenn $b_i$ nicht das Gewinner-Gebot ist, dann ist der Payoff $i = 0$
     * Wenn $b_i$ das Gewinner-Gebot ist und $b_j$ das zweithöchste, dann ist der Payoff $i = v_i - b_j$

@@ -9,7 +9,7 @@
 * Suchen einer gültigen Lösung (erfüllt alle Constraints)
 * Evaluieren der Lösung mit einer Bewertungsfunktion
 * Constraint hinzufügen, so dass nur bessere Lösungen gültig sind
-* solange weiter machen bis keine bessere Lösung mehr gefunden wurde
+* solange weiter machen, bis keine bessere Lösung mehr gefunden wurde
 
 ## Was ist bei einer solchen Optimierung zu beachten?
 * es werden (evtl.) mehrere gültige Lösungen gefunden

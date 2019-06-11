@@ -16,7 +16,7 @@
 * nie die schlechtere Alternative wählen
 * bzw. immer die beste Option wählen (falls es eine bessere gibt)
 
-## Wie kann festgestellt werden ob ein Agent rational ist?
+## Wie kann festgestellt werden, ob ein Agent rational ist?
 * haben die Aktionen zuverlässig den erwünschten Effekt
 * Überprüfung durch eine Performance Measure
 
@@ -55,17 +55,12 @@
 * Rechenleistung
 
 ## Für was steht die Abkürzung PEAS?
-* Performance Measure
-* Environment
-* Actuators
-* Sensors
+* __P__ -- Performance Measure (Messwert)
+* __E__ -- Environment (Umgebung)
+* __A__ -- Actuators (Aktoren)
+* __S__ -- Sensors (Sensoren)
 
 ## Was sind Beispiel für eine PEAS-Analyse?
-* __Legende__
-    * P = Performance Measure (Messwerte)
-    * E = Environment (Umgebung)
-    * A = Actuators (Aktoren)
-    * S = Sensors (Sensoren)
 * __Beispiel Diagnosesystem__
     * P: Krankheit richtig/falsche erkannt, Kosten
     * E: Spital, Patient, Arzt
@@ -125,7 +120,7 @@
 * Utility-based Agent
 * Learning Agent
 
-## Durch welche Fähigkeiten Unterscheiden sich die verschiedene Agenten?
+## Durch welche Fähigkeiten unterscheiden sich die verschiedene Agenten?
 * Erkundungsfähigkeit (Aktionen um sich mehr Wissen zu beschaffen)
 * Lernfähigkeit (möglichst viel aus der Wahrnehmung lernen)
 * Unabhängigkeit (Umgang mit fehlenden oder falschen Informationen)
@@ -134,7 +129,7 @@
 * reagiert direkt auf Wahrnehmung
 * d.h. Umgebung muss erfasst werden können
 * besteht aus einfachen Regeln
-* aus Regeln wird direkt Aktion abgeleitet
+* aus Regeln wird direkt eine Aktion abgeleitet
 * hat kein Modell der Welt
 * verfügt über keine Speicherung
 * Umgebung muss beobachtbar sein
@@ -145,21 +140,21 @@
 * speichert sich Informationen aus früheren Wahrnehmung
 * Modell ist nicht komplett und beinhaltet wahrscheinlich Fehler
 * Modell repräsentiert daher einen "best guess"
-* kann Beobachten wie sich die Welt verändert
-* kann daher Vorhersagen was für einen Effekt eine Aktion hat
+* kann Beobachten, wie sich die Welt verändert
+* kann daher Vorhersagen, was für einen Effekt eine Aktion hat
 
 ## Was ist ein Goal-based Agent?
 * arbeitet auf ein Ziel hin
 * basiert auf einem Simple Reflex Agent
 * speichert sich einen Zustand
-* beobachtet wie die Umwelt sich verändern
-* kann abschätzten wie sich die Umwelt verändern
+* beobachtet, wie die Umwelt sich verändern
+* kann abschätzten, wie sich die Umwelt verändern
 * alle Möglichkeiten sind gleichwertig
 
 ## Was ist ein Utility-based Agent
-* hat keine Ziele aber eine utility function
+* hat keine Ziele, aber eine utility function
 * evaluiert auszuführende Aktionen
-* wählte so die für ihn am beste Variante
+* wählte so, die für ihn am beste Variante
 
 ## Was macht eine utitlity function?
 * bewertet den Zustand des Agenten

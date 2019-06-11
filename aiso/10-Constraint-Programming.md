@@ -11,7 +11,7 @@
 
 ## Was sind die Eigenschaften dieser Bestandteile?
 * jede Variable kann Werte aus ihrem Wertebereich annehmen
-* eine Bedingung beschreibt einen Zustand der (nicht) erlaubt ist
+* eine Bedingung beschreibt einen Zustand, der (nicht) erlaubt ist
 * eine Lösung ist eine gültige Zuweisung von Werten zu Variablen
 * gültig bedeutet, dass alle Bedienungen eingehalten wurden
 * es kann 0-n Lösungen geben

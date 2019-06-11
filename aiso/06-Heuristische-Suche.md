@@ -11,9 +11,9 @@
 
 ## Was ist eine heuristische Funktion?
 * benutzt Wissen über das Problem um die Suche zu steuern
-* ermöglicht es effizientere Suchalgorithem zu implementieren
-* beschreibt die zu erwartenden Kosten bis zum Zielzustand
-* je kleiner der Wert desto näher beim Zielzustand
+* ermöglicht es, effizientere Suchalgorithem zu implementieren
+* beschreibt, die zu erwartenden Kosten bis zum Zielzustand
+* je kleiner der Wert, desto näher beim Zielzustand
 
 ## Welche Bedingungen muss eine solche heuristische Funktion erfüllen?
 * `h(n) > 0`, wenn `n` nicht der Zielzustand ist
@@ -99,7 +99,7 @@ Kostenabschätzung basierend auf Wissen oder Intuition
 ## Wie kann die Manhatten Distanz noch verbessert werden?
 * Linear Conflict Heuristic
 * wenn zwei Felder in gleicher Zeile oder Spalte vertauscht sind
-* Heuristik = Manhatten-Distanz `+2` weil getauscht werden muss
+* Heuristik = Manhatten-Distanz `+2`, weil getauscht werden muss
 * gibt realistischere Schätzung für optimale Kosten
 
 ## Wie funktioniert die Gaschnigs Heuristik?

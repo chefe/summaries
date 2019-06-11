@@ -10,12 +10,12 @@
 Sequenz von Aktionen, die zum gewünschten Ziel führen
 
 ## Was sind die Bedingungen für eine Suche?
-* beobachtbar (der Agent weiss wo er ist)
+* beobachtbar (der Agent weiss, wo er ist)
 * statisch (die Umgebung verändert sich nicht)
 * deterministisch (jede Aktion führt zum gewünschten Effekt)
 * diskret (nur eine begrenzte Anzahl von Zuständen)
 
-## Wie kann eine Formulierung für ein Städtereise-Problem aussehen?
+## Wie kann eine Formulierung für ein Städtereisen-Problem aussehen?
 * __Anfangszustand:__ Anfangs-Stadt
 * __Endzustand:__ Ziel-Stadt
 * __Aktionen:__ zu einer Nachbarstadt gehen
@@ -48,13 +48,13 @@ kann ignoriert werden, da es niemals zu einer besseren Lösung führen wird
 generieren aller Kind-Knoten unter Berücksichtigung der verfügbaren Aktionen
 
 ## Was wird unter der Grenze (frontier) verstanden?
-Set aller Knoten die zum Expandieren bereit sind
+Set aller Knoten, die zum Expandieren bereit sind
 
 ## Was ist eine Suchstrategie?
 definiert, welcher Knoten als nächstes expandiert wird
 
 ## Was wird unter besuchten Zuständen (visited states) verstanden?
-alle Knoten die zu einem gewissen Zeitpunkt expandiert wurden
+alle Knoten, die zu einem gewissen Zeitpunkt expandiert wurden
 
 ## Wie wird mit mehren möglichen Pfaden umgegangen?
 es wird immer nur der "beste" Pfad gespeichert
@@ -81,11 +81,11 @@ es wird immer nur der "beste" Pfad gespeichert
 
 ## In welche Bereiche kann Komplexität unterteilt werden?
 * Zeit-Komplexität
-    * Wie lange braucht der Algorithmus um eine Lösung zu finden?
+    * Wie lange braucht der Algorithmus, um eine Lösung zu finden?
     * meistens muss von einem worst-case ausgegangen werden
     * meistens werden die Anzahl besuchter Knoten gemessen
 * Speicher-Komplexität
-    * Wie viel Speicher braucht der Algorithmus um eine Lösung zu finden?
+    * Wie viel Speicher braucht der Algorithmus, um eine Lösung zu finden?
     * meistens muss von einem worst-case ausgegangen werden
     * meistens werden die Anzahl (gleichzeitig) gespeicherten Knoten gemessen
 

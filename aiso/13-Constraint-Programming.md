@@ -7,12 +7,12 @@
     * jede Kante muss genau einmal besucht werden
 
 ## Welche Begriffe werden bei OR-Tools für Routing-Probleme verwendet?
-* depot: Startpunkt und Endpunkt einer Runde
-* cities: Punkte die abgearbeitet werden müssen
-* vehicle: Arbeiter der eine Runde abarbeitet
-* demand: Grösse des Auftrags an einem Punkt
-* capacity: Kapazität eines Arbeiters
-* precedence: Rangfolge in welcher die Punkte abgearbeitet werden müssen
+* __depot:__ Startpunkt und Endpunkt einer Runde
+* __cities:__ Punkte die abgearbeitet werden müssen
+* __vehicle:__ Arbeiter der eine Runde abarbeitet
+* __demand:__ Grösse des Auftrags an einem Punkt
+* __capacity:__ Kapazität eines Arbeiters
+* __precedence:__ Rangfolge in welcher die Punkte abgearbeitet werden müssen
 
 ## Was ist der Unterschied zwischen Euklidischer- und Manhatten-Distanz?
 * Manhatten: $d = x_{\Delta} + y_{\Delta}$
