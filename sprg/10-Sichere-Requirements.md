@@ -11,7 +11,7 @@
 * Kosten (Ressourcen / Zeit) für die Attacke
 * Kosten (Ressourcen / Zeit) für die Verteidigung
 * Wahrscheinlichkeit für einen erfolgreichen Angriff
-* Wahrscheinlichkeit das der Angreifer diese Attacke auswählt
+* Wahrscheinlichkeit, dass der Angreifer diese Attacke auswählt
 
 ## Wieso erstellt man einen Attack Tree?
 Um anhand der Knoten Gegenmassnahmen zu definieren

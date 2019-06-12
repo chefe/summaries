@@ -1,7 +1,7 @@
 # Sicheres Programmieren
 
 ## Was ist sicheres Programmieren?
-Software zu bauen, die genau ihre Aufgabe erledigt aber nichts mehr
+Software zu bauen, die genau ihre Aufgabe erledigt, aber nichts mehr
 
 ## Wieso muss Software sicher programmiert werden?
 * Software ist allgegenwärtig

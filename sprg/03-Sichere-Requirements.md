@@ -21,7 +21,7 @@ erfüllen muss oder besitzen muss, um eine Steuerung zu erfüllen
 * prägnante Punkte
 * Grundsatz-Entscheidungen
 
-## Welche 3 Perspektiven gibt es beim der Dokumentationen?
+## Welche 3 Perspektiven gibt es bei der Dokumentationen?
 * Daten (Struktur, Format, Codierung, Abhängigkeiten, ...)
 * Funktionalität (Datenfluss, Reihenfolge, Abhängigkeiten, ...)
 * Verhalten (Events, Reaktionen, zeitlicher Ablauf)
@@ -49,7 +49,7 @@ erfüllen muss oder besitzen muss, um eine Steuerung zu erfüllen
 * klare Struktur
 * unmissverständliche Formulierungen
 * Nachvollziehbarkeit bei Änderungen
-* komplett aber dennoch erweiterbar
+* komplett, aber dennoch erweiterbar
 * Konsens über den Inhalt
 
 ## Welche Anhänge gehören zu einem Anforderungsdokument?
@@ -84,7 +84,7 @@ Software Requirements Specification
 * Inhalt / Features
 
 ## Was ist der Unterschied zwischen Safety und Security?
-* in der Deutschen Sprach ist beides Sicherheit
+* in der Deutschen Sprache ist beides Sicherheit
 * Safety:
     * ist ein Teil von Security
     * betrifft eher der Mensch
