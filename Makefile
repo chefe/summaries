@@ -2,19 +2,21 @@ SUBDIRS := bw cna iteo isf ad fkom pmb mod dbs vsk mc dawa ipcv appe pmre ci gdf
 
 .PHONY: all summaries clean rebuild $(SUBDIRS)
 
-all: _helpers/template.tex
+all: buildfiles
 	$(MAKE) -j8 summaries
 	zip -r summaries.zip summaries/
 
-summaries: _helpers/template.css $(SUBDIRS)
+summaries: buildfiles $(SUBDIRS)
 
 rebuild: clean all
 
 clean:
 	rm -rf summaries summaries.zip _helpers/template.css
 
-$(SUBDIRS): _helpers/template.css
+$(SUBDIRS): buildfiles
 	$(MAKE) -C $@
+
+buildfiles: _helpers/template.css
 
 _helpers/template.css:
 	curl -L https://gist.githubusercontent.com/chefe/afd3298e638eb82b7ae139ad282f3eb3/raw/62b874d98f72005d18b9b2a05d3be6815959b51b/gh-pandoc.css > _helpers/template.css
