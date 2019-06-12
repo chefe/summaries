@@ -59,7 +59,7 @@
 
 ## Was wird bei einem genetischen Algorithmus unter Fitness verstanden?
 * Fitness ist das Gegenteil der Heuristik
-* je höher der Wert desto besser
+* je höher der Wert, desto besser
 * beschreibt wie gut eine Population ist
 
 ## Was sind die Eigenschaften eines genetischen Algorithmus?

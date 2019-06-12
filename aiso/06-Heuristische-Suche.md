@@ -10,7 +10,7 @@
 * `h(n)` _geschätzt_ Kosten von Zustand `n` zum Zielzustand
 
 ## Was ist eine heuristische Funktion?
-* benutzt Wissen über das Problem um die Suche zu steuern
+* benutzt Wissen über das Problem, um die Suche zu steuern
 * ermöglicht es, effizientere Suchalgorithem zu implementieren
 * beschreibt, die zu erwartenden Kosten bis zum Zielzustand
 * je kleiner der Wert, desto näher beim Zielzustand

@@ -20,7 +20,7 @@ Sequenz von Aktionen, die zum gewünschten Ziel führen
 * __Endzustand:__ Ziel-Stadt
 * __Aktionen:__ zu einer Nachbarstadt gehen
 * __Schrittkosten:__ Anzahl Kilometer zwischen den beiden Städten
-* __Lösung:__ Abfolge von Aktionen um zum Ziel zu kommen
+* __Lösung:__ Abfolge von Aktionen, um zum Ziel zu kommen
 * __Performance Measure:__ möglichst kurzer Weg
 
 ## Wie wird ein Suchproblem konzeptuell beschrieben?
@@ -38,7 +38,7 @@ Sequenz von Aktionen, die zum gewünschten Ziel führen
 ## Wie funktioniert ein genereller Suchalgorithmus?
 1. Beginnen mit einem Anfangszustand
 2. Expandieren der Knoten
-3. Stoppen wenn Zielzustand erreicht
+3. Stoppen, wenn Zielzustand erreicht
 4. oder wenn alle Zustände überprüft
 
 ## Wie kann mit wiederholten Zuständen umgegangen werden?
