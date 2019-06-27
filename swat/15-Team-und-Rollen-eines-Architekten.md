@@ -5,12 +5,12 @@ Courage, Respect, Commitment, Focus, Openness
 
 ## Was sind die verschiedenen Rollen eines Architekten?
 * Agile-Lean Practitioner (agile Praktiken und Vorgehen vorleben)
-* Teaching (Wissen, Fähigkeiten und Perspektiven andren näher bringen)
+* Teaching (Wissen, Fähigkeiten und Perspektiven anderen näher bringen)
 * Mentoring (Wissen, Fähigkeiten, ... einer spezifischen Person weiter bringen)
 * Technical Mastery (technische Kenntnisse über Softwarentwicklung)
 * Business Mastery (Kenntnisse über das Geschäft und dessen Umfeld)
 * Transformation Mastery (Kenntnisse über die Organisation und Änderungen)
-* Facilitationg (durch den Prozess führen und bei Entscheidungen helfen)
+* Facilitation (durch den Prozess führen und bei Entscheidungen helfen)
 * Professional Coaching (Personen persönlich und beruflich weiterbringen)
 
 ## Was sind die häufigsten Fehler bei der Softwareentwicklung?

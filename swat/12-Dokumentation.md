@@ -22,7 +22,7 @@
 ## Was ist ein ADR?
 * Architectural Design Record
 * Dokumentierte Architektur-Entscheidungen mit Kontext und Beschreibung
-* umfasst eine History aller Architektur-Entscheidung
+* umfasst eine History aller Architektur-Entscheidungen
 
 ## Was und wie sollte dokumentiert werden?
 * stabile Konzepte dokumentieren

@@ -9,7 +9,7 @@ PO / Entwickler
 ## Wer definiert die ility-Attribute?
 Staat, Kunde, Besitzer
 
-## Was ist der Unetrschied zwischen Verification und Validation?
+## Was ist der Unterschied zwischen Verification und Validation?
 * __Validation:__ Build the right product
 * __Verification:__ Build the product right
 

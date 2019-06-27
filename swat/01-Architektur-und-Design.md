@@ -36,7 +36,7 @@
 * __D__ -- Dependency Inversion Principle
 
 ## Welche Dinge sollte man als Entwickler vermeiden?
-* Spghetti-Code
+* Spaghetti-Code
 * grosse Klassen / grosse Methoden
 * keine automatisierten Tests
 * kein automatisiertes Build-System
